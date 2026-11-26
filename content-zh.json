@@ -1,0 +1,2002 @@
+{
+ "language": "zh",
+ "note": "Rendered content of the DentiGuide prototype, exported for migration.",
+ "ui_strings": {
+  "ui": {
+   "tag": "通往健康笑容的指南。",
+   "intro": "了解实用的口腔健康知识，养成良好习惯，学会呵护牙齿和牙龈。请选择您的语言开始。",
+   "start": "开始学习",
+   "home": "首页",
+   "learn": "学习",
+   "quiz": "小测验",
+   "qr": "扫码流程",
+   "ct": "选择您的类别",
+   "cats": [
+    "儿童口腔健康",
+    "成人口腔健康",
+    "老年人口腔健康",
+    "家长与照护者"
+   ],
+   "mt": "教育模块",
+   "back": "← 返回",
+   "soon": "拟开发的未来模块",
+   "rev": "有待临床审核",
+   "bn": "",
+   "disc": "仅供一般健康教育，不能取代牙医的建议。",
+   "surf": [
+    "外侧",
+    "内侧",
+    "咬合面"
+   ],
+   "sg": "为您推荐",
+   "full": "指南",
+   "qn": "问题",
+   "nx": "下一题",
+   "fin": "查看结果",
+   "yes": "正确！",
+   "no": "不太对。",
+   "ca": "正确答案：",
+   "sc": "您的得分",
+   "done": "做得好！每一小步都有助于拥有更健康的笑容。",
+   "again": "再试一次",
+   "qrt": "患者如何使用 DENTI-GUIDE",
+   "qrn": "仅为示意图，并非有效链接。",
+   "qs": [
+    "扫描诊所内展示的二维码",
+    "打开 DENTI-GUIDE 首页",
+    "选择您的语言",
+    "选择年龄类别或主题",
+    "阅读教育资料",
+    "完成可选的知识小测验"
+   ],
+   "mods": [
+    "刷牙指南",
+    "牙刷：选择与使用",
+    "选择合适的牙膏",
+    "如何使用牙线",
+    "口腔健康与牙科疾病",
+    "儿童口腔健康",
+    "成人口腔健康",
+    "老年人口腔健康",
+    "特殊口腔护理",
+    "特殊需要（包括OKU）",
+    "婴幼儿",
+    "牙套与隐形矫治器",
+    "假牙",
+    "孕妇",
+    "口干",
+    "牙齿敏感",
+    "种植牙",
+    "糖尿病",
+    "牙龈疾病（牙周病）",
+    "口腔癌认知",
+    "龋齿（蛀牙）",
+    "牙龈疾病",
+    "饮食与口腔健康",
+    "烟草与电子烟",
+    "糖尿病与口腔健康",
+    "刷牙技巧",
+    "牙线：种类与选择",
+    "牙缝清洁",
+    "漱口水",
+    "舌头清洁及其他辅助用具",
+    "每日口腔清洁流程",
+    "适应性牙刷与辅助用具（特殊需要/OKU）",
+    "口腔解剖与牙齿结构",
+    "口腔潜在恶性疾患（OPMD）",
+    "氟化物认知",
+    "饮酒与口腔健康",
+    "牙齿酸蚀",
+    "口臭",
+    "牙齿萌出与发育",
+    "牙外伤与牙科急症",
+    "定期牙科检查",
+    "牙科常见误区与事实",
+    "癌症治疗（化疗和放疗）",
+    "同时服用多种药物"
+   ]
+  },
+  "labels": {
+   "oe": "口腔健康教育（OHE）",
+   "dt": "牙科治疗指南",
+   "oi": "口腔卫生指导（OHI）",
+   "at": "按年龄组",
+   "sp": "特殊口腔护理",
+   "oc": "口腔癌认知",
+   "bs": "口腔卫生基础",
+   "in": "牙科教育与指导平台，为患者和公众提供清晰、可靠的信息。",
+   "hoe": "知识、认知与预防：口腔癌、龋齿、牙龈疾病、饮食、烟草等。",
+   "hdt": "提供口腔修复、牙髓、正畸和牙周等牙科治疗的指南。",
+   "soon": "即将推出",
+   "tin": "本栏目正在筹备中，以下主题将在日后更新中加入。",
+   "tm": "其他牙科治疗主题日后可在此加入。",
+   "ed": "请选择主题开始。",
+   "oid": "日常口腔护理的实用分步指导。",
+   "more": "更多口腔健康主题将在日后更新中加入。",
+   "ct": [
+    "学龄前（4–6岁）",
+    "学龄期（7–12岁）"
+   ],
+   "ages": [
+    "婴幼儿（0–3岁）",
+    "儿童（4–12岁）",
+    "青少年（13–19岁）",
+    "成人（20–59岁）",
+    "老年人（60岁及以上）"
+   ],
+   "hoi": "实用的口腔卫生：基础知识、按年龄组的刷牙与清洁方法，以及特殊口腔护理。",
+   "ohd": "了解口腔健康、疾病如何发生、风险因素和健康行为。",
+   "oth": "其他口腔健康认知主题"
+  },
+  "technique_labels": {
+   "ti": "口腔卫生指导",
+   "tg": "为人生各阶段的牙齿和牙龈健康提供实用指导。",
+   "nt": "请选择类别，了解如何护理口腔。本资料仅供一般健康教育，不能取代专业牙科建议。",
+   "a": [
+    "A. 按年龄组的口腔卫生指导",
+    "适用于婴幼儿、儿童、成人和老年人。"
+   ],
+   "b": [
+    "B. 特殊口腔护理",
+    "适用于孕期、戴牙套、戴假牙、口干及特殊需要人士。"
+   ],
+   "c": [
+    "口腔卫生基础",
+    "刷牙、选择牙刷和牙膏、牙线及常见牙齿问题。"
+   ],
+   "d": [
+    "刷牙技巧",
+    "五种刷牙法，附简易步骤和动画演示。"
+   ],
+   "nv": [
+    "年龄组",
+    "特殊护理",
+    "基础",
+    "刷牙技巧"
+   ],
+   "gd": "指南",
+   "who": "适合谁？",
+   "sim": "简单说明",
+   "how": "做法",
+   "mis": "常见错误",
+   "dem": "动画演示（示意图）",
+   "ds": "牙医会建议适合您的刷牙方法。",
+   "adv": "如果您对口腔健康有任何疑问或担忧，请咨询牙医或前往附近的牙科诊所寻求专业建议。",
+   "dr": "用量与含氟浓度：马来西亚卫生部2022年幼儿指南建议1至4岁儿童每天至少刷牙两次，使用少量（薄薄一层）或豌豆大小的含氟牙膏。各年龄的确切用量和含氟浓度仍需牙科团队确认。"
+  },
+  "quiz": [
+   {
+    "question": "您应该多久刷一次牙？",
+    "options": [
+     "每周一次",
+     "每天两次",
+     "只在牙痛时"
+    ],
+    "correct_index": 1,
+    "explanation": "每天刷牙两次可清除牙菌斑，保护牙齿和牙龈。"
+   },
+   {
+    "question": "为什么含氟牙膏很重要？",
+    "options": [
+     "能立即美白牙齿",
+     "能代替牙线",
+     "有助于预防蛀牙"
+    ],
+    "correct_index": 2,
+    "explanation": "氟能强化牙釉质，有助于预防蛀牙。"
+   },
+   {
+    "question": "推荐使用哪种刷毛的牙刷？",
+    "options": [
+     "软毛",
+     "硬毛",
+     "都可以"
+    ],
+    "correct_index": 0,
+    "explanation": "软毛清洁效果好，对牙龈更温和。"
+   },
+   {
+    "question": "多久应清洁一次牙缝？",
+    "options": [
+     "每天一次",
+     "不需要",
+     "只在疼痛时"
+    ],
+    "correct_index": 0,
+    "explanation": "每天清洁牙缝，可清除牙刷够不到的地方。"
+   },
+   {
+    "question": "什么有助于预防蛀牙？",
+    "options": [
+     "只用清水漱口",
+     "不看牙医",
+     "每天两次含氟牙膏并减少甜食零食"
+    ],
+    "correct_index": 2,
+    "explanation": "氟和减少吃糖的次数，共同有助于预防蛀牙。"
+   }
+  ]
+ },
+ "pages": [
+  {
+   "type": "module",
+   "id": 0,
+   "title": "🪥 刷牙指南",
+   "breadcrumb": "首页 › 口腔卫生指导（OHI） › 刷牙指南",
+   "bullets_html": [
+    "每天刷牙两次，每次约2分钟。",
+    "让刷毛稍微朝牙龈线倾斜，用短而轻柔的动作刷（改良巴氏刷牙法，适合较大儿童和成人）。",
+    "幼儿：用小圆圈动作（Fones刷牙法），由家长协助。",
+    "刷净每颗牙齿的外侧、内侧和咬合面，包括牙龈线处。",
+    "刷牙后吐出牙膏，不要立刻用清水漱口。",
+    "资料来源： <a href=\"https://hq.moh.gov.my/ohp/images/pdf/garispanduan/Modul%20Ikon%20Gigi%20-%20SET%201.pdf\" target=\"_blank\" rel=\"noopener\">MOH Malaysia, Program Ikon Gigi (iGG) module</a>"
+   ],
+   "qa": [],
+   "warning_boxes": [],
+   "why_it_matters": "💡 这为什么重要？ 1 牙菌斑是每天在牙齿上积聚的一层黏性细菌膜。 2 牙菌斑中的细菌会产生酸，可能导致蛀牙和牙龈发炎。 3 刷牙可清除牙菌斑。吐出而不漱口，可让氟留在牙齿上继续保护牙齿。",
+   "media_placeholders": [],
+   "source_links": [
+    "https://hq.moh.gov.my/ohp/images/pdf/garispanduan/Modul%20Ikon%20Gigi%20-%20SET%201.pdf"
+   ],
+   "has_professional_advice_card": true
+  },
+  {
+   "type": "module",
+   "id": 1,
+   "title": "🪥 牙刷：选择与使用",
+   "breadcrumb": "首页 › 口腔卫生指导（OHI） › 牙刷：选择与使用",
+   "bullets_html": [
+    "<b>Required image:</b> Photo: manual and electric toothbrushes, and soft, medium and hard bristles compared",
+    "<b>What the image should demonstrate:</b> Shows a manual and a powered toothbrush side by side, with labelled close-ups of soft, medium and hard bristles",
+    "<b>Suggested filename:</b> toothbrush-types-bristles.jpg",
+    "<b>Recommended dimensions/aspect ratio:</b> 16:9 (1600 × 900 px)",
+    "<b>Where to upload or replace it:</b> Send the file in the chat and it will be embedded at this exact position (Oral Hygiene Instruction › Toothbrushes: Choosing and Using, above the text).",
+    "选择软毛牙刷。硬毛可能磨损牙龈和牙齿表面。",
+    "小刷头更容易刷到后牙，刷柄应握着舒适。",
+    "手动和电动牙刷只要使用正确都能清洁得很好。刷牙有困难的人，电动牙刷可能更有帮助。",
+    "大约每3个月更换一次牙刷，若刷毛弯曲或散开，或生病之后，要更早更换。",
+    "轻柔刷牙。用力压并不会更干净，还可能伤到牙龈。",
+    "<b>手动还是电动？</b>只要使用正确，两者都能清洁得很好。电动牙刷可帮助灵活性较差的人以及需要鼓励的儿童。",
+    "<b>刷毛：</b>市面上有软毛、中毛和硬毛。推荐软毛，因为它能有效清除牙菌斑，而且对牙龈和牙齿更温和。中毛和硬毛可能伤害牙龈并磨损牙齿表面，尤其是用力刷牙时。",
+    "<b>刷头设计：</b>选择能刷到后牙的小到中等大小的刷头。锥形、弯角或V形刷头在某些情况下有帮助，但良好的技巧比设计更重要。",
+    "<b>另请参阅：</b> <a href=\"#\" onclick=\"openMod(25);return false\">刷牙技巧</a> · <a href=\"#\" onclick=\"openMod(31);return false\">适应性牙刷与辅助用具（特殊需要/OKU）</a>",
+    "资料来源： <a href=\"https://hq.moh.gov.my/ohp/images/pdf/garispanduan/Modul%20Ikon%20Gigi%20-%20SET%201.pdf\" target=\"_blank\" rel=\"noopener\">MOH Malaysia, Program Ikon Gigi (iGG) module</a>"
+   ],
+   "qa": [],
+   "warning_boxes": [],
+   "why_it_matters": "💡 这为什么重要？ 1 软毛能清除牙菌斑又不伤牙龈。 2 磨损的刷毛清洁效果较差。 3 轻柔而彻底比用力更重要。",
+   "media_placeholders": [
+    "MEDIA TO BE ADDED <IMAGE PLACEHOLDER> Required image: Photo: manual and electric toothbrushes, and soft, medium and hard bristles compared What the image should demonstrate: Shows a manual and a powered toothbrush side by side, with labelled close-ups of soft, medium and hard bristles Suggested filename: toothbrush-types-bristles.jpg Recommended dimensions/aspect ratio: 16:9 (1600 × 900 px) Where to upload or replace it: Send the file in the chat and it will be embedded at this exact position (Oral Hygiene Instruction › Toothbrushes: Choosing and Using, above the text)."
+   ],
+   "source_links": [
+    "https://hq.moh.gov.my/ohp/images/pdf/garispanduan/Modul%20Ikon%20Gigi%20-%20SET%201.pdf"
+   ],
+   "has_professional_advice_card": true
+  },
+  {
+   "type": "module",
+   "id": 2,
+   "title": "🧴 选择合适的牙膏",
+   "breadcrumb": "首页 › 口腔卫生指导（OHI） › 选择合适的牙膏",
+   "bullets_html": [
+    "含氟牙膏有助于强化牙齿，预防蛀牙。",
+    "不要吞咽牙膏，刷牙后请吐出。",
+    "幼儿刷牙时需要成人监督。",
+    "<b>查看标签：</b>找出是否含氟以及含氟量（ppm）。大多数日常牙膏都含氟。",
+    "<b>敏感牙齿：</b>抗敏感牙膏若规律使用可能有帮助。若疼痛不缓解，请咨询牙科团队。",
+    "<b>美白牙膏：</b>可去除表面污渍，但不会改变牙齿的天然颜色，有些产品摩擦性较强或会引起敏感。请选择含氟的产品。",
+    "<b>高氟牙膏：</b>龋齿高风险人群可能被开具含氟量更高的牙膏。请仅在牙医建议下使用。",
+    "<b>特殊情况：</b>口干、牙龈问题或其他情况的人可能需要特定的牙膏。请咨询牙医。"
+   ],
+   "qa": [],
+   "warning_boxes": [
+    "⚠ 草稿 · 有待对照马来西亚卫生部最新指南核实",
+    "⚠ 有待临床审核 用量与含氟浓度：马来西亚卫生部2022年幼儿指南建议1至4岁儿童每天至少刷牙两次，使用少量（薄薄一层）或豌豆大小的含氟牙膏。各年龄的确切用量和含氟浓度仍需牙科团队确认。"
+   ],
+   "why_it_matters": "💡 这为什么重要？ 1 氟能强化牙釉质，帮助牙齿抵抗牙菌斑产生的酸。 2 幼儿常会吞下牙膏。恒牙形成期间摄入过多氟，可能出现白色或褐色斑点（氟斑牙），所以幼儿用量要少。 3 用量适当才能兼顾保护与安全，所以每天刷牙两次并用对分量。",
+   "media_placeholders": [],
+   "source_links": [],
+   "has_professional_advice_card": true
+  },
+  {
+   "type": "module",
+   "id": 3,
+   "title": "🧵 如何使用牙线",
+   "breadcrumb": "首页 › 口腔卫生指导（OHI） › 如何使用牙线",
+   "bullets_html": [
+    "<b>Required video:</b> Flossing demonstration",
+    "<b>Suggested video title:</b> How to Floss Step by Step",
+    "<b>What the video should demonstrate:</b> Shows the C-shape technique and a floss holder for people with limited dexterity",
+    "<b>Recommended duration:</b> 60–90 seconds",
+    "<b>Suggested filename:</b> flossing-demo.mp4",
+    "<b>Where to upload or replace it:</b> Send the file in the chat and it will be embedded at this exact position (Oral Hygiene Instruction › How to Floss, above the text).",
+    "牙刷刷不到牙缝。每天清洁一次牙缝有助于保护牙龈。",
+    "牙线：轻轻滑入牙缝，在每颗牙齿周围弯成C形，上下移动。",
+    "牙缝较大、戴牙套或有牙龈问题的人可能适合使用牙缝刷，请向牙科人员咨询合适尺寸。",
+    "戴牙套者可使用穿线器或牙缝刷。"
+   ],
+   "qa": [],
+   "warning_boxes": [],
+   "why_it_matters": "💡 这为什么重要？ 1 牙刷无法刷到牙齿之间的狭窄空隙。 2 残留在那里的牙菌斑会刺激牙龈，也可能导致牙缝蛀牙。 3 每天清洁一次牙缝，有助于保持牙龈健康。",
+   "media_placeholders": [
+    "MEDIA TO BE ADDED <VIDEO PLACEHOLDER> Required video: Flossing demonstration Suggested video title: How to Floss Step by Step What the video should demonstrate: Shows the C-shape technique and a floss holder for people with limited dexterity Recommended duration: 60–90 seconds Suggested filename: flossing-demo.mp4 Where to upload or replace it: Send the file in the chat and it will be embedded at this exact position (Oral Hygiene Instruction › How to Floss, above the text)."
+   ],
+   "source_links": [],
+   "has_professional_advice_card": true
+  },
+  {
+   "type": "module",
+   "id": 4,
+   "title": "🦷 口腔健康与牙科疾病",
+   "breadcrumb": "首页 › 口腔健康教育（OHE） › 口腔健康与牙科疾病",
+   "bullets_html": [
+    "<b>Required image:</b> Overview: five common oral conditions",
+    "<b>What the image should demonstrate:</b> Labelled illustrations of dental caries, gingivitis, periodontitis, halitosis and tooth sensitivity",
+    "<b>Suggested filename:</b> common-oral-conditions.png",
+    "<b>Recommended dimensions/aspect ratio:</b> 16:9 (1600 × 900 px)",
+    "<b>Where to upload or replace it:</b> Send the file in the chat and it will be embedded at this exact position (Oral Health Education › Oral Health and Dental Diseases, above the text).",
+    "以下为一般信息摘要。只有牙科专业人员才能判断症状的原因。",
+    "<b>龋齿（蛀牙）：</b>牙菌斑细菌和糖产生的酸损伤牙齿，可能表现为白色或褐色斑点、牙洞或牙痛。可用含氟牙膏、减少甜食零食和定期检查来预防。",
+    "<b>牙龈炎：</b>由牙菌斑引起的牙龈发炎，牙龈可能发红、肿胀，刷牙时出血。良好的刷牙和牙缝清洁通常能使其逆转。",
+    "<b>牙周炎：</b>较严重的牙龈疾病，会破坏支撑牙齿的组织和骨头。可能出现牙龈退缩、持续口臭和牙齿松动，需要专业治疗。",
+    "<b>口臭：</b>常来自牙齿、牙龈和舌头上的牙菌斑和细菌。请刷牙、清洁牙缝并轻轻清洁舌头。持续口臭应由牙科专业人员检查。",
+    "<b>牙齿敏感：</b>遇冷、热、甜或触碰时出现短暂尖锐的疼痛，可能在牙本质外露时发生。请用软毛刷轻柔刷牙。若持续或严重，请看牙医，因为可能有多种原因。",
+    "<b>出现以下情况请尽快看牙医：</b>牙痛、脸部或牙龈肿胀、牙龈经常出血、牙齿松动、口腔溃疡约3周仍未愈合，或疼痛不缓解。",
+    "资料来源： <a href=\"https://www.who.int/news-room/fact-sheets/detail/oral-health\" target=\"_blank\" rel=\"noopener\">WHO: Oral health fact sheet</a>"
+   ],
+   "qa": [],
+   "warning_boxes": [],
+   "why_it_matters": "💡 这为什么重要？ 1 许多牙齿问题悄悄开始，没有疼痛。 2 及早处理比治疗严重问题更简单、更省钱、更温和。 3 自我诊断可能出错，同一症状可能有多种原因。",
+   "media_placeholders": [
+    "MEDIA TO BE ADDED <IMAGE PLACEHOLDER> Required image: Overview: five common oral conditions What the image should demonstrate: Labelled illustrations of dental caries, gingivitis, periodontitis, halitosis and tooth sensitivity Suggested filename: common-oral-conditions.png Recommended dimensions/aspect ratio: 16:9 (1600 × 900 px) Where to upload or replace it: Send the file in the chat and it will be embedded at this exact position (Oral Health Education › Oral Health and Dental Diseases, above the text)."
+   ],
+   "source_links": [
+    "https://www.who.int/news-room/fact-sheets/detail/oral-health"
+   ],
+   "has_professional_advice_card": true
+  },
+  {
+   "type": "module",
+   "id": 5,
+   "title": "👶 儿童口腔健康",
+   "breadcrumb": "首页 › 口腔卫生指导（OHI） › 儿童口腔健康",
+   "bullets_html": [
+    "第一颗牙长出就开始刷牙。家长应帮幼儿刷牙并监督，直到孩子能刷得好为止。",
+    "按孩子的年龄使用适量的含氟牙膏（见牙膏模块），并帮助孩子吐出。",
+    "限制含糖饮料和零食。多给水喝，尽量把甜食放在正餐时间。",
+    "不要让孩子含着奶瓶或甜饮料入睡。",
+    "乳牙很重要：有助于咀嚼、说话，并引导恒牙长到正确位置。乳牙蛀牙可能引起疼痛和感染。",
+    "即使不痛，也要定期到牙科诊所检查和接受预防护理。"
+   ],
+   "qa": [],
+   "warning_boxes": [
+    "⚠ 有待临床审核 孩子何时可自己刷牙及建议的就诊间隔：请对照马来西亚卫生部最新指南确认。"
+   ],
+   "why_it_matters": "💡 这为什么重要？ 1 早期蛀牙在牙齿长出后不久就可能出现，而且可以预防。 2 孩子的手部技能仍在发展，自己刷不干净。 3 频繁吃糖意味着牙齿受到更多酸的攻击。",
+   "media_placeholders": [],
+   "source_links": [],
+   "has_professional_advice_card": true
+  },
+  {
+   "type": "module",
+   "id": 6,
+   "title": "🙂 成人口腔健康",
+   "breadcrumb": "首页 › 口腔卫生指导（OHI） › 成人口腔健康",
+   "bullets_html": [
+    "每天用含氟牙膏刷牙两次，每天清洁一次牙缝。",
+    "减少吃喝含糖食物的次数，尤其是两餐之间。",
+    "健康的牙龈通常不会出血或疼痛。刷牙时出血是要更仔细清洁的信号，若持续请看牙科专业人员。",
+    "吸烟会伤害牙龈并延缓愈合。戒烟对口腔和全身都有益，可向诊所询问戒烟支持。",
+    "定期做牙科检查，才能及早发现问题。"
+   ],
+   "qa": [],
+   "warning_boxes": [
+    "⚠ 有待临床审核 成人建议的检查间隔：请对照马来西亚卫生部最新指南确认。"
+   ],
+   "why_it_matters": "💡 这为什么重要？ 1 大多数牙龈疾病和蛀牙可通过日常习惯预防。 2 吸烟会增加牙龈疾病和口腔癌的风险。 3 早期问题往往没有疼痛。",
+   "media_placeholders": [],
+   "source_links": [],
+   "has_professional_advice_card": true
+  },
+  {
+   "type": "module",
+   "id": 7,
+   "title": "👵 老年人口腔健康",
+   "breadcrumb": "首页 › 口腔卫生指导（OHI） › 老年人口腔健康",
+   "bullets_html": [
+    "即使只剩少数牙齿，也要每天用含氟牙膏刷牙两次，同时清洁牙龈和舌头。",
+    "口干会增加蛀牙风险，包括外露的牙根面。要常喝水，若是药物引起，请询问牙医或药剂师。",
+    "戴假牙者：每日清洁和夜间护理请见“假牙”模块。",
+    "照护者：对无法自理的人，请温和耐心地协助刷牙和清洁假牙。",
+    "即使戴假牙，也要继续定期看牙医。"
+   ],
+   "qa": [],
+   "warning_boxes": [],
+   "why_it_matters": "💡 这为什么重要？ 1 牙龈会随年龄退缩，外露的牙根更容易蛀牙。 2 许多药物会减少唾液，而唾液通常能保护牙齿。 3 口腔清洁有助于舒适和进食。",
+   "media_placeholders": [],
+   "source_links": [],
+   "has_professional_advice_card": true
+  },
+  {
+   "type": "module",
+   "id": 8,
+   "title": "⭐ 特殊口腔护理",
+   "breadcrumb": "首页 › 口腔卫生指导（OHI） › 特殊口腔护理",
+   "bullets_html": [
+    "有些人需要额外或经过调整的口腔护理。请选择下方类别了解更多。"
+   ],
+   "qa": [],
+   "warning_boxes": [],
+   "why_it_matters": "",
+   "media_placeholders": [],
+   "source_links": [],
+   "has_professional_advice_card": true
+  },
+  {
+   "type": "module",
+   "id": 9,
+   "title": "♿ 特殊需要（包括OKU）",
+   "breadcrumb": "首页 › 口腔卫生指导（OHI） › 特殊需要（包括OKU）",
+   "bullets_html": [
+    "<b>Required video:</b> Assisted toothbrushing for a person with special needs",
+    "<b>Suggested video title:</b> Assisted Toothbrushing: A Caregiver’s Guide",
+    "<b>What the video should demonstrate:</b> Shows a caregiver positioning the person comfortably and brushing step by step",
+    "<b>Recommended duration:</b> 90–120 seconds",
+    "<b>Suggested filename:</b> special-needs-assisted-brushing.mp4",
+    "<b>Where to upload or replace it:</b> Send the file in the chat and it will be embedded at this exact position (Oral Hygiene Instruction › Special Oral Care › Special Needs (including OKU), above the instructions).",
+    "让对方尽量自己刷牙，再由照护者完成剩余部分。",
+    "让对方舒适坐好并托住头部。若握力较弱，可使用较粗或经改装的牙刷柄，或电动牙刷。",
+    "每天在相同时间保持平静的刷牙流程，用简单步骤、图片和称赞来配合。",
+    "告知牙科团队对方正在服用的药物、健康状况，以及什么能让对方放松。",
+    "<b>另请参阅：</b> <a href=\"#\" onclick=\"openMod(31);return false\">适应性牙刷与辅助用具（特殊需要/OKU）</a>"
+   ],
+   "qa": [],
+   "warning_boxes": [
+    "⚠ 有待临床审核 若有吞咽困难或呛噎风险，请向牙科团队咨询最安全的牙膏用量和刷牙姿势。"
+   ],
+   "why_it_matters": "💡 这为什么重要？ 1 有些人难以清洁口腔，或因健康状况、药物而增加牙齿问题的风险。 2 稳定平静的流程，能让刷牙越来越容易、压力更小。 3 定期就诊有助于牙科团队制定合适的护理计划。",
+   "media_placeholders": [
+    "MEDIA TO BE ADDED <VIDEO PLACEHOLDER> Required video: Assisted toothbrushing for a person with special needs Suggested video title: Assisted Toothbrushing: A Caregiver’s Guide What the video should demonstrate: Shows a caregiver positioning the person comfortably and brushing step by step Recommended duration: 90–120 seconds Suggested filename: special-needs-assisted-brushing.mp4 Where to upload or replace it: Send the file in the chat and it will be embedded at this exact position (Oral Hygiene Instruction › Special Oral Care › Special Needs (including OKU), above the instructions)."
+   ],
+   "source_links": [],
+   "has_professional_advice_card": true
+  },
+  {
+   "type": "module",
+   "id": 10,
+   "title": "🍼 婴幼儿",
+   "breadcrumb": "首页 › 口腔卫生指导（OHI） › 婴幼儿",
+   "bullets_html": [
+    "牙齿长出之前，用干净湿润的布轻轻擦拭牙龈。第一颗牙长出后，每天用柔软的婴儿牙刷刷两次。",
+    "不要让宝宝含着奶瓶或甜饮料入睡。请按照医护团队的建议改用杯子。",
+    "不要共用汤匙，也不要用嘴清洁安抚奶嘴，这样会把细菌传给宝宝。",
+    "牙齿一长出来就带宝宝看牙科，牙科团队会建议最合适的时间。",
+    "资料来源： <a href=\"https://hq.moh.gov.my/ohp/images/pdf/publication/FINAL%20GP%20TODDLER%202022%2010.10.2022.pdf\" target=\"_blank\" rel=\"noopener\">MOH Malaysia, Oral Health Programme: Garis Panduan Perkhidmatan Kesihatan Pergigian Toddler (2022), Appendix 5 Anticipatory Guidance</a>"
+   ],
+   "qa": [],
+   "warning_boxes": [
+    "⚠ 有待临床审核 婴儿含氟牙膏用量与首次看牙时间：有待对照马来西亚卫生部最新指南进行临床审核。"
+   ],
+   "why_it_matters": "💡 这为什么重要？ 1 乳牙有助于咀嚼、说话，也为恒牙留出位置。 2 牙齿长出不久就可能蛀牙。 3 睡觉时牙齿接触牛奶或甜饮料，糖分会长时间留在牙齿上。",
+   "media_placeholders": [],
+   "source_links": [
+    "https://hq.moh.gov.my/ohp/images/pdf/publication/FINAL%20GP%20TODDLER%202022%2010.10.2022.pdf"
+   ],
+   "has_professional_advice_card": true
+  },
+  {
+   "type": "module",
+   "id": 11,
+   "title": "😁 牙套与隐形矫治器",
+   "breadcrumb": "首页 › 口腔卫生指导（OHI） › 牙套与隐形矫治器",
+   "bullets_html": [
+    "<b>Required animation:</b> Interdental brush cleaning around brackets",
+    "<b>What movement or process should be demonstrated:</b> Shows an interdental brush cleaning between the wires and brackets",
+    "<b>Suggested filename:</b> braces-interdental-brush.gif",
+    "<b>Where to upload or replace it:</b> Send the file in the chat and it will be embedded at this exact position (Oral Hygiene Instruction › Special Oral Care › Braces &amp; Aligners, above the instructions).",
+    "牙套：尽可能在饭后刷牙，每天至少两次，清洁每个托槽、钢丝周围以及牙龈线。",
+    "用牙缝刷或穿线器清洁钢丝周围和牙缝。",
+    "避免会弄坏牙套或积聚牙菌斑的硬、黏、甜食物。",
+    "隐形矫治器：除了喝水，吃东西和喝饮料时要取下，戴回前先刷牙。",
+    "用软毛刷和冷水清洁矫治器，按矫治团队的建议佩戴时间，若有损坏请联系团队。"
+   ],
+   "qa": [],
+   "warning_boxes": [],
+   "why_it_matters": "💡 这为什么重要？ 1 牙套和钢丝容易积聚牙菌斑，托槽周围残留的牙菌斑可能在牙齿上留下白斑。 2 如果吃喝时仍戴着矫治器，食物和含糖饮料会贴在牙齿上。 3 健康的牙龈和干净的牙齿有助于矫治顺利进行。",
+   "media_placeholders": [
+    "MEDIA TO BE ADDED <GIF / ANIMATION PLACEHOLDER> Required animation: Interdental brush cleaning around brackets What movement or process should be demonstrated: Shows an interdental brush cleaning between the wires and brackets Suggested filename: braces-interdental-brush.gif Where to upload or replace it: Send the file in the chat and it will be embedded at this exact position (Oral Hygiene Instruction › Special Oral Care › Braces & Aligners, above the instructions)."
+   ],
+   "source_links": [],
+   "has_professional_advice_card": true
+  },
+  {
+   "type": "module",
+   "id": 12,
+   "title": "🦷 假牙",
+   "breadcrumb": "首页 › 口腔卫生指导（OHI） › 假牙",
+   "bullets_html": [
+    "<b>Required video:</b> Denture removal and cleaning",
+    "<b>Suggested video title:</b> How to Remove and Clean Your Dentures",
+    "<b>What the video should demonstrate:</b> Shows removing partial and complete dentures, cleaning them over a basin of water and storing them",
+    "<b>Recommended duration:</b> 90–120 seconds",
+    "<b>Suggested filename:</b> denture-removal-cleaning.mp4",
+    "<b>Where to upload or replace it:</b> Send the file in the chat and it will be embedded at this exact position (Oral Hygiene Instruction › Special Oral Care › Dentures, above the instructions).",
+    "每天用软毛刷和温和肥皂或假牙清洁剂清洁假牙，普通牙膏可能刮伤假牙。",
+    "在装水的脸盆或折好的毛巾上方清洁，掉落时才不会摔坏。",
+    "每天用软毛牙刷刷牙龈、舌头和剩余的天然牙。",
+    "按建议在晚上取下假牙，浸泡在清水或清洁液中，放在儿童和宠物够不到的地方。",
+    "假牙松动、裂开或造成溃疡时请看牙医，不要在家用胶水修补。"
+   ],
+   "qa": [],
+   "warning_boxes": [
+    "⚠ 有待临床审核 假牙夜间护理方式与清洁剂种类：请向主治牙医确认，因为每位患者的建议可能不同。"
+   ],
+   "why_it_matters": "💡 这为什么重要？ 1 假牙和天然牙一样会积聚牙菌斑和细菌，可能造成口臭以及牙龈红肿疼痛。 2 晚上取下假牙能让牙龈休息。 3 热水可能使假牙变形，受损的假牙会伤到口腔。",
+   "media_placeholders": [
+    "MEDIA TO BE ADDED <VIDEO PLACEHOLDER> Required video: Denture removal and cleaning Suggested video title: How to Remove and Clean Your Dentures What the video should demonstrate: Shows removing partial and complete dentures, cleaning them over a basin of water and storing them Recommended duration: 90–120 seconds Suggested filename: denture-removal-cleaning.mp4 Where to upload or replace it: Send the file in the chat and it will be embedded at this exact position (Oral Hygiene Instruction › Special Oral Care › Dentures, above the instructions)."
+   ],
+   "source_links": [],
+   "has_professional_advice_card": true
+  },
+  {
+   "type": "module",
+   "id": 13,
+   "title": "🤰 孕妇",
+   "breadcrumb": "首页 › 口腔卫生指导（OHI） › 孕妇",
+   "bullets_html": [
+    "<b>Required image:</b> Infographic: gum care during pregnancy",
+    "<b>What the image should demonstrate:</b> Shows pregnancy-related gum changes and simple daily care steps",
+    "<b>Suggested filename:</b> pregnancy-gum-care-infographic.png",
+    "<b>Recommended dimensions/aspect ratio:</b> 3:4 portrait (1200 × 1600 px)",
+    "<b>Where to upload or replace it:</b> Send the file in the chat and it will be embedded at this exact position (Oral Hygiene Instruction › Special Oral Care › Pregnant Women, above the instructions).",
+    "每天用含氟牙膏刷牙两次，并每天清洁牙缝。激素变化会使牙龈更容易肿胀和出血。",
+    "若孕吐呕吐，之后请用清水漱口，并稍等一会儿再刷牙，因为胃酸会使牙齿表面变软。",
+    "规律吃健康的饭菜，并减少甜食零食。",
+    "怀孕期间的牙科检查和护理很重要。请告知牙科团队您已怀孕。"
+   ],
+   "qa": [],
+   "warning_boxes": [
+    "⚠ 有待临床审核 怀孕期间牙科治疗的时机和用药：牙医会给出建议，请对照马来西亚卫生部最新指南确认。"
+   ],
+   "why_it_matters": "💡 这为什么重要？ 1 激素变化会使牙龈对牙菌斑反应更强烈。 2 呕吐产生的胃酸会削弱牙釉质。 3 现在做好口腔护理，也有助于为宝宝培养健康习惯。",
+   "media_placeholders": [
+    "MEDIA TO BE ADDED <IMAGE PLACEHOLDER> Required image: Infographic: gum care during pregnancy What the image should demonstrate: Shows pregnancy-related gum changes and simple daily care steps Suggested filename: pregnancy-gum-care-infographic.png Recommended dimensions/aspect ratio: 3:4 portrait (1200 × 1600 px) Where to upload or replace it: Send the file in the chat and it will be embedded at this exact position (Oral Hygiene Instruction › Special Oral Care › Pregnant Women, above the instructions)."
+   ],
+   "source_links": [],
+   "has_professional_advice_card": true
+  },
+  {
+   "type": "module",
+   "id": 14,
+   "title": "💧 口干",
+   "breadcrumb": "首页 › 口腔卫生指导（OHI） › 口干",
+   "bullets_html": [
+    "<b>Required image:</b> Infographic: practical ways to manage dry mouth",
+    "<b>What the image should demonstrate:</b> Shows sipping water, sugar-free gum, avoiding tobacco and alcohol, and fluoride toothpaste",
+    "<b>Suggested filename:</b> dry-mouth-infographic.png",
+    "<b>Recommended dimensions/aspect ratio:</b> 3:4 portrait (1200 × 1600 px)",
+    "<b>Where to upload or replace it:</b> Send the file in the chat and it will be embedded at this exact position (Oral Hygiene Instruction › Special Oral Care › Dry Mouth, above the instructions).",
+    "口干是唾液不足所致。常见原因包括某些药物、某些健康状况和用嘴呼吸。",
+    "经常小口喝水，进餐时也喝水。无糖口香糖或含片可能有助于增加唾液。",
+    "避免含糖饮料和零食、烟草以及含酒精的漱口水，它们可能使口干加重。",
+    "使用含氟牙膏并认真刷牙，因为口腔干燥时牙齿更容易蛀。",
+    "若口干持续，请看牙医或医生。没有医嘱不要自行停药。"
+   ],
+   "qa": [],
+   "warning_boxes": [],
+   "why_it_matters": "💡 这为什么重要？ 1 唾液能冲走食物残渣、中和酸并保护牙齿。 2 唾液减少意味着更多蛀牙、牙龈问题和口腔不适。 3 日常的小习惯可以缓解口干。",
+   "media_placeholders": [
+    "MEDIA TO BE ADDED <IMAGE PLACEHOLDER> Required image: Infographic: practical ways to manage dry mouth What the image should demonstrate: Shows sipping water, sugar-free gum, avoiding tobacco and alcohol, and fluoride toothpaste Suggested filename: dry-mouth-infographic.png Recommended dimensions/aspect ratio: 3:4 portrait (1200 × 1600 px) Where to upload or replace it: Send the file in the chat and it will be embedded at this exact position (Oral Hygiene Instruction › Special Oral Care › Dry Mouth, above the instructions)."
+   ],
+   "source_links": [],
+   "has_professional_advice_card": true
+  },
+  {
+   "type": "module",
+   "id": 15,
+   "title": "❄ 牙齿敏感",
+   "breadcrumb": "首页 › 口腔健康教育（OHE） › 牙齿敏感",
+   "bullets_html": [
+    "牙齿敏感是遇冷、热、甜或触碰时出现的短暂尖锐疼痛，可能在牙釉质下较软的一层外露时发生。",
+    "用软毛刷轻柔刷牙。用力刷会磨损牙龈和牙釉质，使敏感加重。",
+    "抗敏感牙膏若长期规律使用可能有帮助，请向牙科团队询问哪种合适。",
+    "减少碳酸饮料和柑橘类等酸性饮食，吃完酸性食物后不要立刻刷牙。",
+    "若疼痛强烈、持续很久或夜间痛醒，请看牙医，因为蛀洞或裂缝也可能引起类似疼痛。请勿自我诊断。"
+   ],
+   "qa": [],
+   "warning_boxes": [],
+   "why_it_matters": "💡 这为什么重要？ 1 外露的牙本质有通向牙神经的细微通道。 2 轻柔刷牙和合适的牙膏可减轻不适。 3 持续疼痛需要检查，因为多种问题的感觉相似。",
+   "media_placeholders": [],
+   "source_links": [],
+   "has_professional_advice_card": true
+  },
+  {
+   "type": "module",
+   "id": 16,
+   "title": "🦷 种植牙",
+   "breadcrumb": "首页 › 口腔卫生指导（OHI） › 种植牙",
+   "bullets_html": [
+    "<b>Required animation:</b> Cleaning around a dental implant",
+    "<b>What movement or process should be demonstrated:</b> Shows the brush gently tilted at the gum line around the implant and interdental brush use",
+    "<b>Suggested filename:</b> implant-cleaning.gif",
+    "<b>Where to upload or replace it:</b> Send the file in the chat and it will be embedded at this exact position (Oral Hygiene Instruction › Special Oral Care › Dental Implants, above the instructions).",
+    "<b>Required image:</b> Comparison: healthy implant tissues vs peri-implant inflammation",
+    "<b>What the image should demonstrate:</b> Side-by-side clinical photographs, labelled healthy and inflamed",
+    "<b>Suggested filename:</b> implant-healthy-vs-inflamed.jpg",
+    "<b>Recommended dimensions/aspect ratio:</b> 16:9 (1600 × 900 px)",
+    "<b>Where to upload or replace it:</b> Send the file in the chat and it will be embedded at this exact position (Oral Hygiene Instruction › Special Oral Care › Dental Implants, above the instructions).",
+    "每天清洁种植牙周围，就像清洁天然牙一样。种植牙周围的牙菌斑会引起牙龈发炎。",
+    "每天用软毛牙刷刷牙两次，让刷毛轻轻朝种植牙周围的牙龈线倾斜。",
+    "用牙缝刷或适合种植牙的牙线，按牙科团队建议的尺寸，清洁种植牙与相邻牙齿之间的空隙。",
+    "不要在种植牙上使用尖锐或金属工具。",
+    "警示信号：种植牙周围牙龈发红、肿胀或出血，口中有异味，流脓、疼痛，或种植牙松动。请尽快看牙医。",
+    "定期看牙医检查，并接受种植牙的专业清洁。吸烟会增加种植牙出问题的风险。"
+   ],
+   "qa": [],
+   "warning_boxes": [
+    "⚠ 有待临床审核 本主题的参考资料：有待牙科团队临床审核。"
+   ],
+   "why_it_matters": "💡 这为什么重要？ 1 种植牙不会蛀牙，但周围的牙龈可能发炎。 2 早期炎症（种植体周围黏膜炎）通常可通过良好的清洁得到逆转。 3 若不治疗，可能破坏支撑种植牙的骨头（种植体周围炎）。",
+   "media_placeholders": [
+    "MEDIA TO BE ADDED <GIF / ANIMATION PLACEHOLDER> Required animation: Cleaning around a dental implant What movement or process should be demonstrated: Shows the brush gently tilted at the gum line around the implant and interdental brush use Suggested filename: implant-cleaning.gif Where to upload or replace it: Send the file in the chat and it will be embedded at this exact position (Oral Hygiene Instruction › Special Oral Care › Dental Implants, above the instructions).",
+    "MEDIA TO BE ADDED <IMAGE PLACEHOLDER> Required image: Comparison: healthy implant tissues vs peri-implant inflammation What the image should demonstrate: Side-by-side clinical photographs, labelled healthy and inflamed Suggested filename: implant-healthy-vs-inflamed.jpg Recommended dimensions/aspect ratio: 16:9 (1600 × 900 px) Where to upload or replace it: Send the file in the chat and it will be embedded at this exact position (Oral Hygiene Instruction › Special Oral Care › Dental Implants, above the instructions)."
+   ],
+   "source_links": [],
+   "has_professional_advice_card": true
+  },
+  {
+   "type": "module",
+   "id": 17,
+   "title": "🩸 糖尿病",
+   "breadcrumb": "首页 › 口腔卫生指导（OHI） › 糖尿病",
+   "bullets_html": [
+    "<b>Required image:</b> Infographic: diabetes and gum health",
+    "<b>What the image should demonstrate:</b> Shows the two-way link between blood sugar and gum disease, with warning signs",
+    "<b>Suggested filename:</b> diabetes-gum-health-infographic.png",
+    "<b>Recommended dimensions/aspect ratio:</b> 3:4 portrait (1200 × 1600 px)",
+    "<b>Where to upload or replace it:</b> Send the file in the chat and it will be embedded at this exact position (Oral Hygiene Instruction › Special Oral Care › Diabetes, above the instructions).",
+    "糖尿病患者更容易患牙龈疾病，而牙龈疾病也会使血糖更难控制。",
+    "良好的血糖控制有助于保护牙龈。请遵从医生的建议。",
+    "每天用含氟牙膏刷牙两次，并每天清洁牙缝。",
+    "警示信号：牙龈发红、肿胀或出血，持续口臭，牙齿松动，口干，或口腔伤口愈合缓慢。",
+    "请告知牙医您患有糖尿病以及正在服用的药物。",
+    "定期看牙医。如果吸烟，戒烟有助于保护牙龈。"
+   ],
+   "qa": [],
+   "warning_boxes": [
+    "⚠ 有待临床审核 本主题的参考资料：有待牙科团队临床审核。"
+   ],
+   "why_it_matters": "💡 这为什么重要？ 1 血糖过高会使身体更难抵抗感染，包括牙龈感染。 2 牙龈感染可能使血糖升高。 3 照顾好口腔是糖尿病管理的一部分。",
+   "media_placeholders": [
+    "MEDIA TO BE ADDED <IMAGE PLACEHOLDER> Required image: Infographic: diabetes and gum health What the image should demonstrate: Shows the two-way link between blood sugar and gum disease, with warning signs Suggested filename: diabetes-gum-health-infographic.png Recommended dimensions/aspect ratio: 3:4 portrait (1200 × 1600 px) Where to upload or replace it: Send the file in the chat and it will be embedded at this exact position (Oral Hygiene Instruction › Special Oral Care › Diabetes, above the instructions)."
+   ],
+   "source_links": [],
+   "has_professional_advice_card": true
+  },
+  {
+   "type": "module",
+   "id": 18,
+   "title": "🧼 牙龈疾病（牙周病）",
+   "breadcrumb": "首页 › 口腔卫生指导（OHI） › 牙龈疾病（牙周病）",
+   "bullets_html": [
+    "<b>Required image:</b> Comparison: healthy gums vs gingivitis vs periodontitis",
+    "<b>What the image should demonstrate:</b> Labelled clinical photographs side by side",
+    "<b>Suggested filename:</b> periodontal-healthy-vs-diseased.jpg",
+    "<b>Recommended dimensions/aspect ratio:</b> 16:9 (1600 × 900 px)",
+    "<b>Where to upload or replace it:</b> Send the file in the chat and it will be embedded at this exact position (Oral Hygiene Instruction › Special Oral Care › Gum Disease (Periodontal Disease), above the instructions).",
+    "<b>Required animation:</b> Cleaning along the gum line and between the teeth",
+    "<b>What movement or process should be demonstrated:</b> Shows gentle gum-line brushing and interdental brush or floss use",
+    "<b>Suggested filename:</b> periodontal-gumline-interdental.gif",
+    "<b>Where to upload or replace it:</b> Send the file in the chat and it will be embedded at this exact position (Oral Hygiene Instruction › Special Oral Care › Gum Disease (Periodontal Disease), above the instructions).",
+    "<b>健康的牙龈</b>呈粉红色、紧实，刷牙时不出血。<b>牙龈炎</b>是指牙龈发红、肿胀、容易出血，通过良好的清洁可以逆转。",
+    "<b>牙周炎</b>更严重。症状包括牙龈退缩、持续口臭、流脓，以及牙齿松动或移位。",
+    "每天用软毛牙刷刷牙两次，让刷毛轻轻朝牙龈线倾斜，力度要轻。",
+    "每天用牙线或牙缝刷清洁牙缝。",
+    "牙菌斑变硬后形成牙石，只有牙科专业人员才能通过洁治（洗牙）去除。",
+    "吸烟会使牙龈疾病恶化。请看牙医接受洁治和牙周治疗，并定期复诊维护。",
+    "资料来源： <a href=\"https://www.who.int/news-room/fact-sheets/detail/oral-health\" target=\"_blank\" rel=\"noopener\">WHO: Oral health fact sheet</a>"
+   ],
+   "qa": [],
+   "warning_boxes": [],
+   "why_it_matters": "💡 这为什么重要？ 1 牙龈疾病早期往往没有疼痛。 2 在家控制牙菌斑与专业清洁相辅相成。 3 未经治疗的牙周炎可能导致牙齿脱落。",
+   "media_placeholders": [
+    "MEDIA TO BE ADDED <IMAGE PLACEHOLDER> Required image: Comparison: healthy gums vs gingivitis vs periodontitis What the image should demonstrate: Labelled clinical photographs side by side Suggested filename: periodontal-healthy-vs-diseased.jpg Recommended dimensions/aspect ratio: 16:9 (1600 × 900 px) Where to upload or replace it: Send the file in the chat and it will be embedded at this exact position (Oral Hygiene Instruction › Special Oral Care › Gum Disease (Periodontal Disease), above the instructions).",
+    "MEDIA TO BE ADDED <GIF / ANIMATION PLACEHOLDER> Required animation: Cleaning along the gum line and between the teeth What movement or process should be demonstrated: Shows gentle gum-line brushing and interdental brush or floss use Suggested filename: periodontal-gumline-interdental.gif Where to upload or replace it: Send the file in the chat and it will be embedded at this exact position (Oral Hygiene Instruction › Special Oral Care › Gum Disease (Periodontal Disease), above the instructions)."
+   ],
+   "source_links": [
+    "https://www.who.int/news-room/fact-sheets/detail/oral-health"
+   ],
+   "has_professional_advice_card": true
+  },
+  {
+   "type": "module",
+   "id": 19,
+   "title": "🔍 口腔癌认知",
+   "breadcrumb": "首页 › 口腔健康教育（OHE） › 口腔癌认知",
+   "bullets_html": [
+    "<b>Required image:</b> Step-by-step illustrated mouth examination (8 steps)",
+    "<b>What the image should demonstrate:</b> One labelled illustration or photograph for each of the eight Mouth Self-Examination (MSE) steps",
+    "<b>Suggested filename:</b> mse-8-steps-illustrated.jpg",
+    "<b>Recommended dimensions/aspect ratio:</b> 3:4 poster (1200 × 1600 px)",
+    "<b>Where to upload or replace it:</b> Send the file in the chat and it will be embedded at this exact position (Oral Health Education › Oral Cancer Awareness, above the instructions).",
+    "<b>Required video:</b> Mouth Self-Examination (MSE) demonstration",
+    "<b>Suggested video title:</b> How to Perform a Mouth Self-Examination (MSE)",
+    "<b>What the video should demonstrate:</b> Shows all eight steps using a mirror and good light",
+    "<b>Recommended duration:</b> 2–3 minutes",
+    "<b>Suggested filename:</b> mse-demonstration.mp4",
+    "<b>Where to upload or replace it:</b> Send the file in the chat and it will be embedded at this exact position (Oral Health Education › Oral Cancer Awareness, above the instructions).",
+    "<b>Required image:</b> Comparison: normal oral tissues and suspicious changes (persistent ulcer, white patch, red patch, lump)",
+    "<b>What the image should demonstrate:</b> Clinical photographs from a reliable, licensed source, each labelled, with a note that only a dentist can diagnose",
+    "<b>Suggested filename:</b> oral-cancer-normal-vs-suspicious.jpg",
+    "<b>Recommended dimensions/aspect ratio:</b> 16:9 (1600 × 900 px)",
+    "<b>Where to upload or replace it:</b> Send the file in the chat and it will be embedded at this exact position (Oral Health Education › Oral Cancer Awareness, above the instructions).",
+    "<b>什么是口腔癌？</b>口腔癌可发生在嘴唇、舌头、脸颊、牙龈、口底或上颚。及早发现变化，治疗会更容易。",
+    "<b>常见部位：</b>舌头两侧和舌下、口底、脸颊内侧、牙龈、嘴唇和上颚。",
+    "<b>为什么及早发现很重要：</b>及早发现的口腔癌通常更容易治疗，效果也更好。许多早期变化并不疼痛，所以定期做牙科检查和口腔自我检查（MSE）很重要。",
+    "<b>主要风险因素：</b>吸烟、无烟烟草、饮酒、嚼食槟榔，以及HPV感染（主要见于喉咙后部）。同时使用烟草和酒精会进一步增加风险。",
+    "<b>警示信号：</b>久不愈合的口腔溃疡、白色斑块（白斑）、红色斑块（红斑）、肿块或肿胀、持续疼痛、无明显原因的出血、吞咽或活动舌头困难，或颈部肿块。",
+    "<b>何时寻求专业帮助：</b>若任何溃疡、斑块、肿块或其他变化持续超过两周，请看牙医。并非所有斑块或溃疡都是癌症，大多数口腔溃疡会自行愈合。",
+    "<b>口腔自我检查（MSE）：</b>请定期进行，例如每月一次，在镜子前、光线充足、双手清洁的情况下检查。",
+    "<b>第1步 – 嘴唇：</b>查看并触摸上下嘴唇的内外侧。",
+    "<b>第2步 – 脸颊内侧：</b>轻轻拉开每侧脸颊，检查是否有斑块、溃疡或肿块。",
+    "<b>第3步 – 牙龈：</b>查看上下牙齿的牙龈，包括前面和后面。",
+    "<b>第4步 – 舌头：</b>伸出舌头，检查舌面、两侧和舌下。",
+    "<b>第5步 – 口底：</b>抬起舌头，查看下方。",
+    "<b>第6步 – 上颚：</b>头稍向后仰，张大嘴巴，查看上颚。",
+    "<b>第7步 – 口腔后部和咽喉：</b>在舒适的范围内尽量往里看。",
+    "<b>第8步 – 颈部：</b>触摸颈部两侧和下颌下方，检查是否有肿块或肿胀。",
+    "<b>请记住：</b>MSE不能取代牙医的专业口腔检查和诊断。请勿自行诊断。出现可疑或持续的变化时，请看牙医。",
+    "资料来源： <a href=\"https://hq.moh.gov.my/ohp/images/pdf/garispanduan/Modul%20Ikon%20Gigi%20-%20SET%201.pdf\" target=\"_blank\" rel=\"noopener\">MOH Malaysia, Program Ikon Gigi (iGG) module</a> · <a href=\"https://hq.moh.gov.my/ohp/ms/hubungi-kami/sitemap\" target=\"_blank\" rel=\"noopener\">MOH Malaysia Oral Health Programme (oral cancer leaflets)</a> · <a href=\"https://www.who.int/news-room/fact-sheets/detail/oral-health\" target=\"_blank\" rel=\"noopener\">WHO: Oral health fact sheet</a>"
+   ],
+   "qa": [],
+   "warning_boxes": [],
+   "why_it_matters": "",
+   "media_placeholders": [
+    "MEDIA TO BE ADDED <IMAGE PLACEHOLDER> Required image: Step-by-step illustrated mouth examination (8 steps) What the image should demonstrate: One labelled illustration or photograph for each of the eight Mouth Self-Examination (MSE) steps Suggested filename: mse-8-steps-illustrated.jpg Recommended dimensions/aspect ratio: 3:4 poster (1200 × 1600 px) Where to upload or replace it: Send the file in the chat and it will be embedded at this exact position (Oral Health Education › Oral Cancer Awareness, above the instructions).",
+    "MEDIA TO BE ADDED <VIDEO PLACEHOLDER> Required video: Mouth Self-Examination (MSE) demonstration Suggested video title: How to Perform a Mouth Self-Examination (MSE) What the video should demonstrate: Shows all eight steps using a mirror and good light Recommended duration: 2–3 minutes Suggested filename: mse-demonstration.mp4 Where to upload or replace it: Send the file in the chat and it will be embedded at this exact position (Oral Health Education › Oral Cancer Awareness, above the instructions).",
+    "MEDIA TO BE ADDED <IMAGE PLACEHOLDER> Required image: Comparison: normal oral tissues and suspicious changes (persistent ulcer, white patch, red patch, lump) What the image should demonstrate: Clinical photographs from a reliable, licensed source, each labelled, with a note that only a dentist can diagnose Suggested filename: oral-cancer-normal-vs-suspicious.jpg Recommended dimensions/aspect ratio: 16:9 (1600 × 900 px) Where to upload or replace it: Send the file in the chat and it will be embedded at this exact position (Oral Health Education › Oral Cancer Awareness, above the instructions)."
+   ],
+   "source_links": [
+    "https://hq.moh.gov.my/ohp/images/pdf/garispanduan/Modul%20Ikon%20Gigi%20-%20SET%201.pdf",
+    "https://hq.moh.gov.my/ohp/ms/hubungi-kami/sitemap",
+    "https://www.who.int/news-room/fact-sheets/detail/oral-health"
+   ],
+   "has_professional_advice_card": true
+  },
+  {
+   "type": "module",
+   "id": 20,
+   "title": "🦷 龋齿（蛀牙）",
+   "breadcrumb": "首页 › 口腔健康教育（OHE） › 龋齿（蛀牙）",
+   "bullets_html": [
+    "<b>Required image:</b> Comparison: healthy tooth vs early decay vs cavity",
+    "<b>What the image should demonstrate:</b> Labelled clinical photographs showing a healthy tooth, a white-spot lesion and a cavity",
+    "<b>Suggested filename:</b> caries-healthy-vs-decay.jpg",
+    "<b>Recommended dimensions/aspect ratio:</b> 16:9 (1600 × 900 px)",
+    "<b>Where to upload or replace it:</b> Send the file in the chat and it will be embedded at this exact position (Oral Health Education › Dental Caries, above the text).",
+    "<b>什么是龋齿？</b>龋齿（蛀牙）是牙菌斑中的细菌分解糖分时产生的酸对牙齿造成的损害。",
+    "<b>如何发生：</b>经常吃喝含糖食物、牙菌斑清除不彻底、氟不足，都会让酸的攻击慢慢磨损牙釉质。早期蛀牙可表现为白色斑点，通过氟和良好的护理可能逆转。",
+    "<b>症状：</b>白色或褐色斑点、牙齿上的洞、对甜、热、冷敏感，以及牙痛。早期蛀牙往往没有疼痛。",
+    "<b>哪些人风险较高：</b>经常吃甜食零食或喝含糖饮料、口干、牙齿清洁不佳或牙根外露的人。",
+    "<b>预防：</b>每天用含氟牙膏刷牙两次，把含糖食物和饮料安排在正餐时间，清洁牙缝，并定期做牙科检查。",
+    "<b>何时寻求专业帮助：</b>发现斑点、牙洞或牙痛时请看牙医。及早治疗更简单，也能保留更多天然牙。",
+    "<b>在马来西亚：</b>2015年全国学龄前儿童口腔健康调查发现，71.3%的学龄前儿童有龋齿，低于1995年的87.1%和2005年的76.2%。乳牙有龋齿的儿童，恒牙患龋齿的风险约高出三倍。",
+    "资料来源： <a href=\"https://www.who.int/news-room/fact-sheets/detail/oral-health\" target=\"_blank\" rel=\"noopener\">WHO: Oral health fact sheet</a>",
+    "资料来源： <a href=\"https://hq.moh.gov.my/ohp/images/pdf/publication/FINAL%20GP%20TODDLER%202022%2010.10.2022.pdf\" target=\"_blank\" rel=\"noopener\">MOH Malaysia, Oral Health Programme: Garis Panduan Perkhidmatan Kesihatan Pergigian Toddler (2022), Appendix 5 Anticipatory Guidance</a>"
+   ],
+   "qa": [],
+   "warning_boxes": [],
+   "why_it_matters": "💡 这为什么重要？ 1 龋齿是全球最常见的口腔疾病之一，而且在很大程度上是可以预防的。 2 未经治疗的蛀牙可能导致疼痛、感染和掉牙。 3 在家护理和定期检查相辅相成。",
+   "media_placeholders": [
+    "MEDIA TO BE ADDED <IMAGE PLACEHOLDER> Required image: Comparison: healthy tooth vs early decay vs cavity What the image should demonstrate: Labelled clinical photographs showing a healthy tooth, a white-spot lesion and a cavity Suggested filename: caries-healthy-vs-decay.jpg Recommended dimensions/aspect ratio: 16:9 (1600 × 900 px) Where to upload or replace it: Send the file in the chat and it will be embedded at this exact position (Oral Health Education › Dental Caries, above the text)."
+   ],
+   "source_links": [
+    "https://hq.moh.gov.my/ohp/images/pdf/publication/FINAL%20GP%20TODDLER%202022%2010.10.2022.pdf",
+    "https://www.who.int/news-room/fact-sheets/detail/oral-health"
+   ],
+   "has_professional_advice_card": true
+  },
+  {
+   "type": "module",
+   "id": 21,
+   "title": "🧼 牙龈疾病",
+   "breadcrumb": "首页 › 口腔健康教育（OHE） › 牙龈疾病",
+   "bullets_html": [
+    "<b>Required image:</b> Comparison: plaque vs calculus, and healthy gums vs gingivitis",
+    "<b>What the image should demonstrate:</b> Labelled clinical photographs side by side",
+    "<b>Suggested filename:</b> gum-plaque-calculus-gingivitis.jpg",
+    "<b>Recommended dimensions/aspect ratio:</b> 16:9 (1600 × 900 px)",
+    "<b>Where to upload or replace it:</b> Send the file in the chat and it will be embedded at this exact position (Oral Health Education › Gum Disease, above the text).",
+    "<b>什么是牙龈疾病？</b>牙龈疾病是支撑牙齿的组织发生的感染和炎症。它从牙龈炎开始，可能发展为牙周炎。",
+    "<b>牙龈炎：</b>牙龈发红、肿胀，刷牙时容易出血。良好的口腔卫生可以使其逆转。",
+    "<b>牙周炎：</b>牙龈附着和牙齿周围的骨头受到破坏，可能导致牙龈退缩、牙齿松动和口臭，需要专业治疗。",
+    "<b>风险因素：</b>牙菌斑堆积、吸烟和使用烟草、糖尿病、孕期及其他激素变化、某些药物，以及牙龈疾病家族史。",
+    "<b>预防：</b>每天通过刷牙和清洁牙缝清除牙菌斑，不吸烟，控制糖尿病，并定期看牙医。实用的清洁步骤见“口腔卫生指导”。",
+    "<b>何时寻求专业帮助：</b>牙龈出血、肿胀或退缩，牙齿松动，或口臭持续不消。",
+    "资料来源： <a href=\"https://www.who.int/news-room/fact-sheets/detail/oral-health\" target=\"_blank\" rel=\"noopener\">WHO: Oral health fact sheet</a>"
+   ],
+   "qa": [],
+   "warning_boxes": [],
+   "why_it_matters": "💡 这为什么重要？ 1 牙龈疾病早期往往没有疼痛。 2 牙龈炎可以逆转。牙周炎可以控制，但已经丧失的支持组织无法完全恢复。 3 牙龈疾病是成年人掉牙的主要原因之一。",
+   "media_placeholders": [
+    "MEDIA TO BE ADDED <IMAGE PLACEHOLDER> Required image: Comparison: plaque vs calculus, and healthy gums vs gingivitis What the image should demonstrate: Labelled clinical photographs side by side Suggested filename: gum-plaque-calculus-gingivitis.jpg Recommended dimensions/aspect ratio: 16:9 (1600 × 900 px) Where to upload or replace it: Send the file in the chat and it will be embedded at this exact position (Oral Health Education › Gum Disease, above the text)."
+   ],
+   "source_links": [
+    "https://www.who.int/news-room/fact-sheets/detail/oral-health"
+   ],
+   "has_professional_advice_card": true
+  },
+  {
+   "type": "module",
+   "id": 22,
+   "title": "🥗 饮食与口腔健康",
+   "breadcrumb": "首页 › 口腔健康教育（OHE） › 饮食与口腔健康",
+   "bullets_html": [
+    "<b>Required image:</b> Infographic: healthy snack and drink choices",
+    "<b>What the image should demonstrate:</b> Shows water, fruit, plain milk and unsweetened snacks compared with sugary drinks, sweets and sticky foods",
+    "<b>Suggested filename:</b> diet-snack-choices-infographic.png",
+    "<b>Recommended dimensions/aspect ratio:</b> 3:4 portrait (1200 × 1600 px)",
+    "<b>Where to upload or replace it:</b> Send the file in the chat and it will be embedded at this exact position (Oral Health Education › Diet and Oral Health, above the text).",
+    "<b>糖与牙齿：</b>每次吃或喝含糖食物，牙菌斑中的细菌都会产生酸来攻击牙齿。",
+    "<b>次数很重要：</b>频繁吃零食和小口小口地喝甜饮料，比在正餐中摄入的糖造成更多次酸攻击。",
+    "<b>推荐：</b>以清水为主要饮品，零食选择新鲜水果、蔬菜、无糖鲜奶或无糖酸奶。",
+    "<b>少吃少喝：</b>含糖饮料（包括加糖的茶和咖啡、汽水和包装果汁）、糖果、饼干和黏性食物，尤其是两餐之间和睡前。",
+    "<b>酸性饮品</b>如碳酸饮料、能量饮料和某些果汁会磨损牙釉质。喝完后不要立刻刷牙。",
+    "<b>婴幼儿：</b>不要在食物或饮料中加糖，也不要让宝宝含着奶瓶或甜饮料入睡。",
+    "资料来源： <a href=\"https://www.who.int/news-room/fact-sheets/detail/oral-health\" target=\"_blank\" rel=\"noopener\">WHO: Oral health fact sheet</a>"
+   ],
+   "qa": [],
+   "warning_boxes": [],
+   "why_it_matters": "💡 这为什么重要？ 1 吃糖的次数与吃糖的多少同样重要。 2 健康的饮食有助于牙齿和牙龈健康。 3 清水有助于冲走食物残渣，并保持口腔湿润。",
+   "media_placeholders": [
+    "MEDIA TO BE ADDED <IMAGE PLACEHOLDER> Required image: Infographic: healthy snack and drink choices What the image should demonstrate: Shows water, fruit, plain milk and unsweetened snacks compared with sugary drinks, sweets and sticky foods Suggested filename: diet-snack-choices-infographic.png Recommended dimensions/aspect ratio: 3:4 portrait (1200 × 1600 px) Where to upload or replace it: Send the file in the chat and it will be embedded at this exact position (Oral Health Education › Diet and Oral Health, above the text)."
+   ],
+   "source_links": [
+    "https://www.who.int/news-room/fact-sheets/detail/oral-health"
+   ],
+   "has_professional_advice_card": true
+  },
+  {
+   "type": "module",
+   "id": 23,
+   "title": "🚭 烟草与电子烟",
+   "breadcrumb": "首页 › 口腔健康教育（OHE） › 烟草与电子烟",
+   "bullets_html": [
+    "<b>Required image:</b> Infographic: effects of tobacco, vaping and betel quid on the mouth",
+    "<b>What the image should demonstrate:</b> Shows effects on gums, teeth, breath and oral cancer risk, and where to get help to quit",
+    "<b>Suggested filename:</b> tobacco-vaping-mouth-infographic.png",
+    "<b>Recommended dimensions/aspect ratio:</b> 3:4 portrait (1200 × 1600 px)",
+    "<b>Where to upload or replace it:</b> Send the file in the chat and it will be embedded at this exact position (Oral Health Education › Tobacco and Vaping, above the text).",
+    "<b>吸烟和烟草：</b>香烟、雪茄和无烟烟草会增加牙龈疾病、掉牙、牙齿染色、口臭和口腔癌的风险。",
+    "<b>电子烟：</b>电子烟对口腔并非没有风险。它可能使口腔干燥、刺激牙龈，而且可能含有会成癫的尼古丁。其长期影响仍在研究中。",
+    "<b>槟榔和槟榔果：</b>嚼食槟榔也会增加口腔癌和牙龈问题的风险。",
+    "<b>警示信号：</b>牙龈出血或退缩、白色或红色斑块、久不愈合的溃疡和持续口臭。发现这些情况请看牙医。",
+    "<b>戒烟有益：</b>戒除烟草可改善牙龈健康，并随时间降低口腔癌风险。可向诊所咨询戒烟帮助。",
+    "资料来源： <a href=\"https://www.who.int/news-room/fact-sheets/detail/oral-health\" target=\"_blank\" rel=\"noopener\">WHO: Oral health fact sheet</a>"
+   ],
+   "qa": [],
+   "warning_boxes": [],
+   "why_it_matters": "💡 这为什么重要？ 1 烟草会减少牙龈的血液流动，延缓愈合。 2 电子烟中的尼古丁会成癫。 3 什么时候戒烟都不迟。",
+   "media_placeholders": [
+    "MEDIA TO BE ADDED <IMAGE PLACEHOLDER> Required image: Infographic: effects of tobacco, vaping and betel quid on the mouth What the image should demonstrate: Shows effects on gums, teeth, breath and oral cancer risk, and where to get help to quit Suggested filename: tobacco-vaping-mouth-infographic.png Recommended dimensions/aspect ratio: 3:4 portrait (1200 × 1600 px) Where to upload or replace it: Send the file in the chat and it will be embedded at this exact position (Oral Health Education › Tobacco and Vaping, above the text)."
+   ],
+   "source_links": [
+    "https://www.who.int/news-room/fact-sheets/detail/oral-health"
+   ],
+   "has_professional_advice_card": true
+  },
+  {
+   "type": "module",
+   "id": 24,
+   "title": "🩸 糖尿病与口腔健康",
+   "breadcrumb": "首页 › 口腔健康教育（OHE） › 糖尿病与口腔健康",
+   "bullets_html": [
+    "<b>Required image:</b> Infographic: diabetes and oral health",
+    "<b>What the image should demonstrate:</b> Shows the two-way link between blood sugar and gum disease, with warning signs",
+    "<b>Suggested filename:</b> diabetes-oral-health-infographic.png",
+    "<b>Recommended dimensions/aspect ratio:</b> 3:4 portrait (1200 × 1600 px)",
+    "<b>Where to upload or replace it:</b> Send the file in the chat and it will be embedded at this exact position (Oral Health Education › Diabetes and Oral Health, above the text).",
+    "<b>双向关系：</b>糖尿病患者更容易患牙龈疾病，而严重的牙龈疾病也会使血糖更难控制。",
+    "<b>原因：</b>血糖过高会使身体更难抵抗感染，而且糖尿病可能使唾液减少。",
+    "<b>其他口腔问题：</b>口干、口腔伤口愈合缓慢，以及鹅口疮等真菌感染。",
+    "<b>预防：</b>把血糖控制好，遵从医生建议，不吸烟，并定期做牙科检查。",
+    "<b>何时寻求专业帮助：</b>牙龈出血或肿胀、牙齿松动、持续口臭、口干或口腔伤口愈合缓慢。日常清洁建议见“口腔卫生指导 › 特殊口腔护理 › 糖尿病”。"
+   ],
+   "qa": [],
+   "warning_boxes": [
+    "⚠ 有待临床审核 本主题的参考资料：有待牙科团队临床审核。"
+   ],
+   "why_it_matters": "💡 这为什么重要？ 1 牙龈健康和血糖会相互影响。 2 及早的牙科护理有助于保护您的整体健康。",
+   "media_placeholders": [
+    "MEDIA TO BE ADDED <IMAGE PLACEHOLDER> Required image: Infographic: diabetes and oral health What the image should demonstrate: Shows the two-way link between blood sugar and gum disease, with warning signs Suggested filename: diabetes-oral-health-infographic.png Recommended dimensions/aspect ratio: 3:4 portrait (1200 × 1600 px) Where to upload or replace it: Send the file in the chat and it will be embedded at this exact position (Oral Health Education › Diabetes and Oral Health, above the text)."
+   ],
+   "source_links": [],
+   "has_professional_advice_card": true
+  },
+  {
+   "type": "module",
+   "id": 25,
+   "title": "🎬 刷牙技巧",
+   "breadcrumb": "首页 › 口腔卫生指导（OHI） › 刷牙技巧",
+   "bullets_html": [
+    "<b>Required video:</b> Brushing technique demonstration (Modified Bass and Fones)",
+    "<b>Suggested video title:</b> Correct Toothbrushing: Modified Bass and Fones Techniques",
+    "<b>What the video should demonstrate:</b> Shows brush positioning and movements on the outer, inner and chewing surfaces",
+    "<b>Recommended duration:</b> 2–3 minutes",
+    "<b>Suggested filename:</b> brushing-techniques-demo.mp4",
+    "<b>Where to upload or replace it:</b> Send the file in the chat and it will be embedded at this exact position (Oral Hygiene Instruction › Brushing Techniques, above the text)."
+   ],
+   "qa": [
+    {
+     "q": "改良巴氏刷牙法",
+     "a": "<b>适合谁？</b> 大多数较大的儿童、青少年和成人。 清洁牙龈线处，那里最容易积聚牙菌斑。"
+    },
+    {
+     "q": "巴氏刷牙法",
+     "a": "<b>适合谁？</b> 有牙龈问题的人，需按牙医的建议使用。 用非常小的动作清洁牙龈边缘下方。"
+    },
+    {
+     "q": "Fones 圆弧刷牙法",
+     "a": "<b>适合谁？</b> 幼儿，需要家长协助。 大幅度的圆圈动作，小手也容易做到。"
+    },
+    {
+     "q": "Stillman 刷牙法",
+     "a": "<b>适合谁？</b> 牙龈敏感或牙龈退缩的人，需按牙医的建议使用。 轻柔地清洁牙龈线和牙颈部。"
+    },
+    {
+     "q": "Charters 刷牙法",
+     "a": "<b>适合谁？</b> 戴牙套、牙缝较大或牙龈治疗后的人，需按牙医的建议使用。 有助于清洁牙缝和矫治装置周围。"
+    }
+   ],
+   "warning_boxes": [
+    "常见错误: 用力左右来回擦刷。",
+    "常见错误: 压得太用力，可能弄伤牙龈。",
+    "",
+    "",
+    ""
+   ],
+   "why_it_matters": "",
+   "media_placeholders": [
+    "MEDIA TO BE ADDED <VIDEO PLACEHOLDER> Required video: Brushing technique demonstration (Modified Bass and Fones) Suggested video title: Correct Toothbrushing: Modified Bass and Fones Techniques What the video should demonstrate: Shows brush positioning and movements on the outer, inner and chewing surfaces Recommended duration: 2–3 minutes Suggested filename: brushing-techniques-demo.mp4 Where to upload or replace it: Send the file in the chat and it will be embedded at this exact position (Oral Hygiene Instruction › Brushing Techniques, above the text)."
+   ],
+   "source_links": [],
+   "has_professional_advice_card": true
+  },
+  {
+   "type": "module",
+   "id": 26,
+   "title": "🧵 牙线：种类与选择",
+   "breadcrumb": "首页 › 口腔卫生指导（OHI） › 牙线：种类与选择",
+   "bullets_html": [
+    "<b>Required image:</b> Photo: types of dental floss",
+    "<b>What the image should demonstrate:</b> Shows waxed floss, unwaxed floss, dental tape, super floss, floss picks, a floss holder and a floss threader, each labelled",
+    "<b>Suggested filename:</b> floss-types.jpg",
+    "<b>Recommended dimensions/aspect ratio:</b> 16:9 (1600 × 900 px)",
+    "<b>Where to upload or replace it:</b> Send the file in the chat and it will be embedded at this exact position (Oral Hygiene Instruction › Dental Floss: Types and Choice, above the text).",
+    "<b>为什么要用牙线？</b>牙刷刷不到牙齿相接的侧面。每天清洁一次牙缝，可清除这些部位的牙菌斑。",
+    "<b>有蜡牙线</b>容易滑入紧密的牙缝，不容易磨损。<b>无蜡牙线</b>更细，适合较宽的空隙，但容易起毛。",
+    "<b>牙线带（扁平牙线）</b>是扁平、较宽的带状牙线，适合较宽的牙缝和敏感的牙龈。",
+    "<b>超级牙线</b>有硬质穿线头、海绵状部分和普通牙线。适用于戴牙套、牙桥和种植牙周围。",
+    "<b>牙线棒和牙线柄</b>比散装牙线更容易握持，可帮助儿童、老年人以及灵活性较差或戴牙套的人。穿线器帮助把牙线穿过牙桥和矫正钢丝下方。",
+    "<b>如何选择：</b>最好的牙线就是您每天都能舒适使用的那一种。请咨询牙科团队哪种适合您的牙齿、牙套、牙桥或种植牙。"
+   ],
+   "qa": [],
+   "warning_boxes": [],
+   "why_it_matters": "",
+   "media_placeholders": [
+    "MEDIA TO BE ADDED <IMAGE PLACEHOLDER> Required image: Photo: types of dental floss What the image should demonstrate: Shows waxed floss, unwaxed floss, dental tape, super floss, floss picks, a floss holder and a floss threader, each labelled Suggested filename: floss-types.jpg Recommended dimensions/aspect ratio: 16:9 (1600 × 900 px) Where to upload or replace it: Send the file in the chat and it will be embedded at this exact position (Oral Hygiene Instruction › Dental Floss: Types and Choice, above the text)."
+   ],
+   "source_links": [],
+   "has_professional_advice_card": true
+  },
+  {
+   "type": "module",
+   "id": 27,
+   "title": "🪷 牙缝清洁",
+   "breadcrumb": "首页 › 口腔卫生指导（OHI） › 牙缝清洁",
+   "bullets_html": [
+    "<b>Required image:</b> Photo: interdental brushes in different sizes",
+    "<b>What the image should demonstrate:</b> Shows a range of interdental brush sizes labelled by size, plus a water flosser and a single-tufted toothbrush",
+    "<b>Suggested filename:</b> interdental-brush-sizes.jpg",
+    "<b>Recommended dimensions/aspect ratio:</b> 16:9 (1600 × 900 px)",
+    "<b>Where to upload or replace it:</b> Send the file in the chat and it will be embedded at this exact position (Oral Hygiene Instruction › Interdental Cleaning, above the text).",
+    "<b>Required animation:</b> Interdental brush insertion",
+    "<b>What movement or process should be demonstrated:</b> Shows the brush inserted gently between two teeth and moved in and out",
+    "<b>Suggested filename:</b> interdental-brush-insertion.gif",
+    "<b>Where to upload or replace it:</b> Send the file in the chat and it will be embedded at this exact position (Oral Hygiene Instruction › Interdental Cleaning, above the text).",
+    "<b>牙缝刷</b>是清洁牙缝的小刷子。当缝隙足够大时，它往往比牙线更容易使用，适合患有牙龈疾病或牙龈退缩的人。",
+    "<b>尺寸：</b>选择能轻轻伸入、不需用力的最大尺寸。不同的缝隙可能需要不同的尺寸。请牙科团队帮您测量。",
+    "<b>使用方法：</b>让刷子稍微朝向牙龈，轻轻伸入缝隙，来回抽动几次。不要用力硬塞。",
+    "<b>牙套、牙桥和种植牙：</b>牙缝刷可清洁托槽和钢丝周围、牙桥下方和种植牙旁边。若缝隙太紧、刷子放不进去，就用牙线。",
+    "<b>冲牙器（水牙线）</b>利用水柱冲洗。对戴牙套、有牙桥、种植牙或灵活性较差的人，可作为额外辅助，但不能取代刷牙。",
+    "<b>单束牙刷：</b>只有一束刷毛的小牙刷，用于难以刷到的地方，如最后一颗牙的后面、拥挤的牙齿、牙套和种植牙周围。"
+   ],
+   "qa": [],
+   "warning_boxes": [],
+   "why_it_matters": "",
+   "media_placeholders": [
+    "MEDIA TO BE ADDED <IMAGE PLACEHOLDER> Required image: Photo: interdental brushes in different sizes What the image should demonstrate: Shows a range of interdental brush sizes labelled by size, plus a water flosser and a single-tufted toothbrush Suggested filename: interdental-brush-sizes.jpg Recommended dimensions/aspect ratio: 16:9 (1600 × 900 px) Where to upload or replace it: Send the file in the chat and it will be embedded at this exact position (Oral Hygiene Instruction › Interdental Cleaning, above the text).",
+    "MEDIA TO BE ADDED <GIF / ANIMATION PLACEHOLDER> Required animation: Interdental brush insertion What movement or process should be demonstrated: Shows the brush inserted gently between two teeth and moved in and out Suggested filename: interdental-brush-insertion.gif Where to upload or replace it: Send the file in the chat and it will be embedded at this exact position (Oral Hygiene Instruction › Interdental Cleaning, above the text)."
+   ],
+   "source_links": [],
+   "has_professional_advice_card": true
+  },
+  {
+   "type": "module",
+   "id": 28,
+   "title": "🧴 漱口水",
+   "breadcrumb": "首页 › 口腔卫生指导（OHI） › 漱口水",
+   "bullets_html": [
+    "<b>Required image:</b> Photo: types of mouthwash (fluoride, antiseptic, alcohol-free)",
+    "<b>What the image should demonstrate:</b> Shows different mouthwash bottles with labels visible, without brand promotion, and a measuring cup",
+    "<b>Suggested filename:</b> mouthwash-types.jpg",
+    "<b>Recommended dimensions/aspect ratio:</b> 4:3 (1600 × 1200 px)",
+    "<b>Where to upload or replace it:</b> Send the file in the chat and it will be embedded at this exact position (Oral Hygiene Instruction › Mouthwash, above the text).",
+    "<b>漱口水是额外的辅助，不是替代品。</b>它不能取代刷牙和清洁牙缝。",
+    "<b>含氟漱口水</b>有助于预防蛀牙。请在与刷牙不同的时间使用，例如午餐后，以免冲掉牙膏中的氟。",
+    "<b>抑菌漱口水</b>（例如含氯化十六烷基吡啶或精油的产品）可作为额外步骤帮助减少牙菌斑和使口气清新。请按标签使用。",
+    "<b>氯己定（洗必泰）漱口水</b>不适合日常常规使用。由牙医或医生开具，只在短期、明确的时间内使用，例如某些治疗后或针对某些牙龈问题。长期使用可能使牙齿和舌头染色，并改变味觉。",
+    "<b>无酒精漱口水</b>更温和，适合口干或口腔敏感的人。含酒精的漱口水可能有刺痛感，并使口腔干燥。",
+    "<b>使用方法：</b>按标签量取用量，按标示时间含漱，然后吐出。不要吞咽，不要随后立刻用清水漱口，也不要在刷牙后立刻使用。给幼儿使用前请先咨询牙医。"
+   ],
+   "qa": [],
+   "warning_boxes": [
+    "⚠ 有待临床审核 含氟漱口水的浓度及儿童可使用的年龄：有待对照马来西亚卫生部最新指南核实。"
+   ],
+   "why_it_matters": "💡 这为什么重要？ 1 刷牙和清洁牙缝能清除牙菌斑，漱口水只是额外的补充。 2 刷牙后立刻漱口，会冲掉留在牙齿上的氟。 3 氯己定药效强，需要专业指导。",
+   "media_placeholders": [
+    "MEDIA TO BE ADDED <IMAGE PLACEHOLDER> Required image: Photo: types of mouthwash (fluoride, antiseptic, alcohol-free) What the image should demonstrate: Shows different mouthwash bottles with labels visible, without brand promotion, and a measuring cup Suggested filename: mouthwash-types.jpg Recommended dimensions/aspect ratio: 4:3 (1600 × 1200 px) Where to upload or replace it: Send the file in the chat and it will be embedded at this exact position (Oral Hygiene Instruction › Mouthwash, above the text)."
+   ],
+   "source_links": [],
+   "has_professional_advice_card": true
+  },
+  {
+   "type": "module",
+   "id": 29,
+   "title": "👅 舌头清洁及其他辅助用具",
+   "breadcrumb": "首页 › 口腔卫生指导（OHI） › 舌头清洁及其他辅助用具",
+   "bullets_html": [
+    "<b>Required image:</b> Photo: tongue scraper, denture brush, orthodontic toothbrush and single-tufted toothbrush",
+    "<b>What the image should demonstrate:</b> Shows each aid separately and labelled",
+    "<b>Suggested filename:</b> other-hygiene-aids.jpg",
+    "<b>Recommended dimensions/aspect ratio:</b> 16:9 (1600 × 900 px)",
+    "<b>Where to upload or replace it:</b> Send the file in the chat and it will be embedded at this exact position (Oral Hygiene Instruction › Tongue Cleaning and Other Aids, above the text).",
+    "<b>Required animation:</b> Tongue cleaning technique",
+    "<b>What movement or process should be demonstrated:</b> Shows scraping from the back to the front of the tongue with light pressure",
+    "<b>Suggested filename:</b> tongue-cleaning.gif",
+    "<b>Where to upload or replace it:</b> Send the file in the chat and it will be embedded at this exact position (Oral Hygiene Instruction › Tongue Cleaning and Other Aids, above the text).",
+    "<b>刮舌器和舌头清洁器：</b>舌头上的细菌和食物残渣苔是口臭的常见原因。每天用刮舌器或软毛牙刷，从舌头后部向前轻轻清洁一次。",
+    "<b>假牙刷</b>毛较硬，形状适合假牙的曲面。请搭配肥皂或假牙清洁剂使用，不要用普通牙膏，它会刮伤假牙。",
+    "<b>正畸专用牙刷</b>的刷毛呈V形或凹槽形，可清洁托槽和钢丝周围。",
+    "<b>牙桥和保持器：</b>用超级牙线、穿线器或牙缝刷清洁牙桥下方。可摘戴的保持器用软毛刷和冷水清洁，并按牙医的建议。",
+    "如果清洁得很好口臭仍然持续，请看牙医。",
+    "<b>另请参阅：</b> <a href=\"#\" onclick=\"openMod(31);return false\">适应性牙刷与辅助用具（特殊需要/OKU）</a>"
+   ],
+   "qa": [],
+   "warning_boxes": [],
+   "why_it_matters": "",
+   "media_placeholders": [
+    "MEDIA TO BE ADDED <IMAGE PLACEHOLDER> Required image: Photo: tongue scraper, denture brush, orthodontic toothbrush and single-tufted toothbrush What the image should demonstrate: Shows each aid separately and labelled Suggested filename: other-hygiene-aids.jpg Recommended dimensions/aspect ratio: 16:9 (1600 × 900 px) Where to upload or replace it: Send the file in the chat and it will be embedded at this exact position (Oral Hygiene Instruction › Tongue Cleaning and Other Aids, above the text).",
+    "MEDIA TO BE ADDED <GIF / ANIMATION PLACEHOLDER> Required animation: Tongue cleaning technique What movement or process should be demonstrated: Shows scraping from the back to the front of the tongue with light pressure Suggested filename: tongue-cleaning.gif Where to upload or replace it: Send the file in the chat and it will be embedded at this exact position (Oral Hygiene Instruction › Tongue Cleaning and Other Aids, above the text)."
+   ],
+   "source_links": [],
+   "has_professional_advice_card": true
+  },
+  {
+   "type": "module",
+   "id": 30,
+   "title": "🕓 每日口腔清洁流程",
+   "breadcrumb": "首页 › 口腔卫生指导（OHI） › 每日口腔清洁流程",
+   "bullets_html": [
+    "<b>Required video:</b> Daily oral hygiene routine",
+    "<b>Suggested video title:</b> Your Daily Oral Hygiene Routine",
+    "<b>What the video should demonstrate:</b> Shows the morning and night-time routine in the correct order",
+    "<b>Recommended duration:</b> 2–3 minutes",
+    "<b>Suggested filename:</b> daily-routine.mp4",
+    "<b>Where to upload or replace it:</b> Send the file in the chat and it will be embedded at this exact position (Oral Hygiene Instruction › Daily Oral Hygiene Routine, above the text).",
+    "<b>早上：</b>用含氟牙膏刷牙约两分钟，并清洁舌头。如有建议，还要清洁牙缝。",
+    "<b>晚上（最重要）：</b>先清洁牙缝，再用含氟牙膏刷牙约两分钟，然后吐出泡沫。之后除了清水，不要再吃东西或喝饮料。",
+    "<b>顺序：</b>清洁牙缝、刷所有牙面、清洁舌头、吐出牙膏而不漱口。如有建议，请在不同时间使用漱口水。",
+    "<b>餐后：</b>用清水漱口。吃了酸性食物或喝了酸性饮料后，等一段时间再刷牙。<b>呕吐或胃酸反流后：</b>用清水漱口，等一会儿再刷牙，因为胃酸会使牙釉质变软。",
+    "<b>常见错误：</b>刷牙太用力或时间太短、不清洁牙缝、刷牙后立刻漱口、使用磨损的牙刷，以及晚上不清洁牙齿。"
+   ],
+   "qa": [],
+   "warning_boxes": [],
+   "why_it_matters": "",
+   "media_placeholders": [
+    "MEDIA TO BE ADDED <VIDEO PLACEHOLDER> Required video: Daily oral hygiene routine Suggested video title: Your Daily Oral Hygiene Routine What the video should demonstrate: Shows the morning and night-time routine in the correct order Recommended duration: 2–3 minutes Suggested filename: daily-routine.mp4 Where to upload or replace it: Send the file in the chat and it will be embedded at this exact position (Oral Hygiene Instruction › Daily Oral Hygiene Routine, above the text)."
+   ],
+   "source_links": [],
+   "has_professional_advice_card": true
+  },
+  {
+   "type": "module",
+   "id": 31,
+   "title": "♿ 适应性牙刷与辅助用具（特殊需要/OKU）",
+   "breadcrumb": "首页 › 口腔卫生指导（OHI） › 适应性牙刷与辅助用具（特殊需要/OKU）",
+   "bullets_html": [
+    "<b>Required image:</b> Photo set: modified toothbrushes (enlarged handle, foam grip, angled handle, hand strap, powered brush)",
+    "<b>What the image should demonstrate:</b> Shows each adaptation on its own on a plain background, with a short label",
+    "<b>Suggested filename:</b> oku-modified-toothbrushes.jpg",
+    "<b>Recommended dimensions/aspect ratio:</b> 16:9 (1600 × 900 px)",
+    "<b>Where to upload or replace it:</b> Send the file in the chat and it will be embedded at this exact position (Oral Hygiene Instruction › Adaptive Toothbrushes and Aids (Special Needs/OKU), above the text).",
+    "<b>Required video:</b> Brushing with adaptive aids",
+    "<b>Suggested video title:</b> Brushing with Adaptive Toothbrushes and Aids",
+    "<b>What the video should demonstrate:</b> Shows a caregiver and a person using adapted handles, a hand strap and a floss holder",
+    "<b>Recommended duration:</b> 2–3 minutes",
+    "<b>Suggested filename:</b> oku-adaptive-brushing.mp4",
+    "<b>Where to upload or replace it:</b> Send the file in the chat and it will be embedded at this exact position (Oral Hygiene Instruction › Adaptive Toothbrushes and Aids (Special Needs/OKU), above the text).",
+    "<b>每个人都不同。</b>请根据个人需要，在牙科团队的建议下选择辅助用具，必要时由照护者协助。",
+    "<b>加粗刷柄和泡棉握把：</b>更粗的刷柄，或套在刷柄上的软泡棉管，对握力较弱或患关节炎的人更容易握住。",
+    "<b>弯角刷柄：</b>弯曲的刷柄可帮助手腕无法转动或够不到后牙的人。请向牙科团队咨询如何安全地改装刷柄。",
+    "<b>手带（固定带）：</b>带子把牙刷固定在手上，适用于无法抓握的人，例如中风后。",
+    "<b>电动牙刷、牙线柄和冲牙器：</b>这些可帮助灵活性较差的人。有些人可能不适应振动或噪音。",
+    "<b>脑性麻痹和手部协调性较差：</b>稳定舒适的姿势、较粗的刷柄和电动牙刷可能有帮助。照护者可能需要引导或帮忙完成刷牙。",
+    "<b>帕金森病和中风：</b>粗刷柄或手带可帮助握力较弱或手抖。缩短刷牙时间，把手臂靠在桌上，并检查较弱一侧是否夹留食物。",
+    "<b>智力障碍：</b>采用平静、固定的流程，用简单步骤、图片或示范来配合，并给予称赞。通常需要照护者的协助。",
+    "<b>肢体残障和张口受限：</b>改装刷柄，选择小头或单束牙刷，并向牙科团队咨询姿势。",
+    "<b>请寻求专业帮助：</b>若有吞咽困难、刷牙时呛噎、口腔疼痛或溃疡，或无法清洁口腔。"
+   ],
+   "qa": [],
+   "warning_boxes": [],
+   "why_it_matters": "",
+   "media_placeholders": [
+    "MEDIA TO BE ADDED <IMAGE PLACEHOLDER> Required image: Photo set: modified toothbrushes (enlarged handle, foam grip, angled handle, hand strap, powered brush) What the image should demonstrate: Shows each adaptation on its own on a plain background, with a short label Suggested filename: oku-modified-toothbrushes.jpg Recommended dimensions/aspect ratio: 16:9 (1600 × 900 px) Where to upload or replace it: Send the file in the chat and it will be embedded at this exact position (Oral Hygiene Instruction › Adaptive Toothbrushes and Aids (Special Needs/OKU), above the text).",
+    "MEDIA TO BE ADDED <VIDEO PLACEHOLDER> Required video: Brushing with adaptive aids Suggested video title: Brushing with Adaptive Toothbrushes and Aids What the video should demonstrate: Shows a caregiver and a person using adapted handles, a hand strap and a floss holder Recommended duration: 2–3 minutes Suggested filename: oku-adaptive-brushing.mp4 Where to upload or replace it: Send the file in the chat and it will be embedded at this exact position (Oral Hygiene Instruction › Adaptive Toothbrushes and Aids (Special Needs/OKU), above the text)."
+   ],
+   "source_links": [],
+   "has_professional_advice_card": true
+  },
+  {
+   "type": "module",
+   "id": 32,
+   "title": "🦷 口腔解剖与牙齿结构",
+   "breadcrumb": "首页 › 口腔健康教育（OHE） › 口腔解剖与牙齿结构",
+   "bullets_html": [
+    "<b>Required image:</b> 3D medical illustration: tooth anatomy and supporting tissues",
+    "<b>What the image should demonstrate:</b> Shows enamel, dentine, pulp, root, gum, periodontal ligament and bone in a labelled cross-section",
+    "<b>Suggested filename:</b> tooth-anatomy-3d.png",
+    "<b>Recommended dimensions/aspect ratio:</b> 4:3 (1600 × 1200 px)",
+    "<b>Where to upload or replace it:</b> Send the file in the chat and it will be embedded at this exact position (Oral Health Education › Oral Anatomy and Tooth Structure, above the text).",
+    "<b>牙齿的构成：</b>牙冠是看得见的部分，牙根固定在颌骨中。牙釉质是牙冠坚硬的外层，其下是牙本质，中央的牙髓含有神经和血管。",
+    "<b>支持组织：</b>牙龈包围牙齿，牙周膜和骨头把牙齿固定在原位。",
+    "<b>您的牙齿：</b>成人通常最多有32颗恒牙，包括门牙、尖牙、前磨牙和磨牙。儿童有20颗乳牙。",
+    "<b>牙釉质一旦丧失就不能再生</b>，但早期的损伤可以通过氟来强化。",
+    "<b>唾液</b>通过冲走食物残渣、中和酸并提供矿物质来保护牙齿。"
+   ],
+   "qa": [],
+   "warning_boxes": [],
+   "why_it_matters": "",
+   "media_placeholders": [
+    "MEDIA TO BE ADDED <IMAGE PLACEHOLDER> Required image: 3D medical illustration: tooth anatomy and supporting tissues What the image should demonstrate: Shows enamel, dentine, pulp, root, gum, periodontal ligament and bone in a labelled cross-section Suggested filename: tooth-anatomy-3d.png Recommended dimensions/aspect ratio: 4:3 (1600 × 1200 px) Where to upload or replace it: Send the file in the chat and it will be embedded at this exact position (Oral Health Education › Oral Anatomy and Tooth Structure, above the text)."
+   ],
+   "source_links": [],
+   "has_professional_advice_card": true
+  },
+  {
+   "type": "module",
+   "id": 33,
+   "title": "🔬 口腔潜在恶性疾患（OPMD）",
+   "breadcrumb": "首页 › 口腔健康教育（OHE） › 口腔潜在恶性疾患（OPMD）",
+   "bullets_html": [
+    "<b>Required image:</b> Comparison: leukoplakia, erythroplakia and oral submucous fibrosis",
+    "<b>What the image should demonstrate:</b> Clinical photographs from a reliable licensed source, each labelled, with a note that only a dentist can diagnose",
+    "<b>Suggested filename:</b> opmd-examples.jpg",
+    "<b>Recommended dimensions/aspect ratio:</b> 16:9 (1600 × 900 px)",
+    "<b>Where to upload or replace it:</b> Send the file in the chat and it will be embedded at this exact position (Oral Health Education › Oral Potentially Malignant Disorders (OPMD), above the text).",
+    "<b>它们是什么？</b>口腔潜在恶性疾患（OPMD）是口腔黏膜的改变，如白色或红色斑块，有时可能转变为癌症，但大多数不会。",
+    "<b>例子：</b>白斑、红斑和口腔黏膜下纤维化（脸颊变硬，常与嚼食槟榔有关）。",
+    "<b>警示信号：</b>擦不掉的白色或红色斑块、吃辛辣食物时有灼烧感、嘴巴难以张大，或久不愈合的溃疡。",
+    "<b>风险因素：</b>烟草、槟榔和酒精。戒除这些习惯可降低风险。",
+    "<b>该怎么做：</b>请勿自行诊断。若任何斑块或变化持续超过两周，请看牙医。牙医可能会进行观察或取一小块组织检查（活检）。",
+    "<b>另请参阅：</b> <a href=\"#\" onclick=\"openMod(19);return false\">口腔癌认知</a>"
+   ],
+   "qa": [],
+   "warning_boxes": [],
+   "why_it_matters": "",
+   "media_placeholders": [
+    "MEDIA TO BE ADDED <IMAGE PLACEHOLDER> Required image: Comparison: leukoplakia, erythroplakia and oral submucous fibrosis What the image should demonstrate: Clinical photographs from a reliable licensed source, each labelled, with a note that only a dentist can diagnose Suggested filename: opmd-examples.jpg Recommended dimensions/aspect ratio: 16:9 (1600 × 900 px) Where to upload or replace it: Send the file in the chat and it will be embedded at this exact position (Oral Health Education › Oral Potentially Malignant Disorders (OPMD), above the text)."
+   ],
+   "source_links": [],
+   "has_professional_advice_card": true
+  },
+  {
+   "type": "module",
+   "id": 34,
+   "title": "🧪 氟化物认知",
+   "breadcrumb": "首页 › 口腔健康教育（OHE） › 氟化物认知",
+   "bullets_html": [
+    "<b>Required image:</b> Infographic: where fluoride comes from and how to use it safely",
+    "<b>What the image should demonstrate:</b> Shows toothpaste, mouthwash, varnish and safe use around young children",
+    "<b>Suggested filename:</b> fluoride-awareness-infographic.png",
+    "<b>Recommended dimensions/aspect ratio:</b> 3:4 portrait (1200 × 1600 px)",
+    "<b>Where to upload or replace it:</b> Send the file in the chat and it will be embedded at this exact position (Oral Health Education › Fluoride Awareness, above the text).",
+    "<b>氟的作用：</b>氟能强化牙釉质，并帮助早期蛀牙修复。它是预防蛀牙最有效的方法之一。",
+    "<b>来源：</b>含氟牙膏、含氟漱口水、专业涂氟，以及某些地方的含氟饮用水。",
+    "<b>专业涂氟：</b>牙科团队可能会涂抹氟保护漆，尤其适合儿童和蛀牙高风险人群。",
+    "<b>安全使用：</b>按年龄使用适量牙膏，用完吐出，并把牙膏放在幼儿拿不到的地方。牙齿发育期间吞下过多氟，可能出现白色或褐色斑点（氟斑牙）。",
+    "<b>另请参阅：</b> <a href=\"#\" onclick=\"openMod(2);return false\">选择合适的牙膏</a>"
+   ],
+   "qa": [],
+   "warning_boxes": [
+    "⚠ 有待临床审核 各年龄段的氟用量和浓度：有待对照马来西亚卫生部最新指南核实。"
+   ],
+   "why_it_matters": "",
+   "media_placeholders": [
+    "MEDIA TO BE ADDED <IMAGE PLACEHOLDER> Required image: Infographic: where fluoride comes from and how to use it safely What the image should demonstrate: Shows toothpaste, mouthwash, varnish and safe use around young children Suggested filename: fluoride-awareness-infographic.png Recommended dimensions/aspect ratio: 3:4 portrait (1200 × 1600 px) Where to upload or replace it: Send the file in the chat and it will be embedded at this exact position (Oral Health Education › Fluoride Awareness, above the text)."
+   ],
+   "source_links": [],
+   "has_professional_advice_card": true
+  },
+  {
+   "type": "module",
+   "id": 35,
+   "title": "🍷 饮酒与口腔健康",
+   "breadcrumb": "首页 › 口腔健康教育（OHE） › 饮酒与口腔健康",
+   "bullets_html": [
+    "<b>Required image:</b> Infographic: alcohol and the mouth",
+    "<b>What the image should demonstrate:</b> Shows the effect on oral cancer risk, dry mouth, enamel and tooth decay",
+    "<b>Suggested filename:</b> alcohol-oral-health-infographic.png",
+    "<b>Recommended dimensions/aspect ratio:</b> 3:4 portrait (1200 × 1600 px)",
+    "<b>Where to upload or replace it:</b> Send the file in the chat and it will be embedded at this exact position (Oral Health Education › Alcohol and Oral Health, above the text).",
+    "<b>饮酒与口腔癌：</b>饮酒会增加口腔癌的风险，与烟草同时使用时风险更高。",
+    "<b>其他影响：</b>酒精可能使口腔干燥并刺激牙龈，含糖的酒类和调酒饮料也可能导致蛀牙。",
+    "<b>酸性：</b>有些酒类呈酸性，会磨损牙釉质。",
+    "<b>降低风险：</b>限制或避免饮酒，同时多喝水，喝了酸性饮料后不要立刻刷牙。",
+    "<b>何时寻求专业帮助：</b>久不愈合的溃疡、白色或红色斑块，或持续的口腔疼痛。可向诊所咨询减少饮酒的支持。",
+    "资料来源： <a href=\"https://www.who.int/news-room/fact-sheets/detail/oral-health\" target=\"_blank\" rel=\"noopener\">WHO: Oral health fact sheet</a>"
+   ],
+   "qa": [],
+   "warning_boxes": [],
+   "why_it_matters": "",
+   "media_placeholders": [
+    "MEDIA TO BE ADDED <IMAGE PLACEHOLDER> Required image: Infographic: alcohol and the mouth What the image should demonstrate: Shows the effect on oral cancer risk, dry mouth, enamel and tooth decay Suggested filename: alcohol-oral-health-infographic.png Recommended dimensions/aspect ratio: 3:4 portrait (1200 × 1600 px) Where to upload or replace it: Send the file in the chat and it will be embedded at this exact position (Oral Health Education › Alcohol and Oral Health, above the text)."
+   ],
+   "source_links": [
+    "https://www.who.int/news-room/fact-sheets/detail/oral-health"
+   ],
+   "has_professional_advice_card": true
+  },
+  {
+   "type": "module",
+   "id": 36,
+   "title": "🍋 牙齿酸蚀",
+   "breadcrumb": "首页 › 口腔健康教育（OHE） › 牙齿酸蚀",
+   "bullets_html": [
+    "<b>Required image:</b> Illustration or photo: tooth erosion compared with healthy enamel",
+    "<b>What the image should demonstrate:</b> Labelled images showing worn, shiny enamel and an acidic drink as a cause",
+    "<b>Suggested filename:</b> tooth-erosion.jpg",
+    "<b>Recommended dimensions/aspect ratio:</b> 16:9 (1600 × 900 px)",
+    "<b>Where to upload or replace it:</b> Send the file in the chat and it will be embedded at this exact position (Oral Health Education › Tooth Erosion, above the text).",
+    "<b>什么是牙齿酸蚀？</b>牙齿酸蚀是由非细菌产生的酸（如酸性食物和饮料或胃酸）造成的牙釉质流失。",
+    "<b>原因：</b>碳酸饮料和能量饮料、运动饮料、果汁、柑橘类水果，以及反复呕吐或胃酸反流。",
+    "<b>症状：</b>牙齿敏感、牙齿表面光滑发亮或发黄，以及牙齿边缘磨损或变圆。",
+    "<b>预防：</b>限制酸性饮料，随餐饮用或用吸管，之后用清水漱口并等一会儿再刷牙。使用含氟牙膏。",
+    "<b>请看牙医：</b>若有胃酸反流、反复呕吐，或牙齿变得敏感或磨损。",
+    "<b>另请参阅：</b> <a href=\"#\" onclick=\"openMod(30);return false\">每日口腔清洁流程</a>"
+   ],
+   "qa": [],
+   "warning_boxes": [],
+   "why_it_matters": "",
+   "media_placeholders": [
+    "MEDIA TO BE ADDED <IMAGE PLACEHOLDER> Required image: Illustration or photo: tooth erosion compared with healthy enamel What the image should demonstrate: Labelled images showing worn, shiny enamel and an acidic drink as a cause Suggested filename: tooth-erosion.jpg Recommended dimensions/aspect ratio: 16:9 (1600 × 900 px) Where to upload or replace it: Send the file in the chat and it will be embedded at this exact position (Oral Health Education › Tooth Erosion, above the text)."
+   ],
+   "source_links": [],
+   "has_professional_advice_card": true
+  },
+  {
+   "type": "module",
+   "id": 37,
+   "title": "💨 口臭",
+   "breadcrumb": "首页 › 口腔健康教育（OHE） › 口臭",
+   "bullets_html": [
+    "<b>Required image:</b> Illustration: common causes of bad breath",
+    "<b>What the image should demonstrate:</b> Shows the tongue coating, gums, teeth and dentures as sources of bad breath",
+    "<b>Suggested filename:</b> halitosis-causes.png",
+    "<b>Recommended dimensions/aspect ratio:</b> 16:9 (1600 × 900 px)",
+    "<b>Where to upload or replace it:</b> Send the file in the chat and it will be embedded at this exact position (Oral Health Education › Halitosis (Bad Breath), above the text).",
+    "<b>什么是口臭？</b>口臭是持续的口气不佳。它很常见，而且通常可以治疗。",
+    "<b>原因：</b>大多数来自舌头以及牙缝和牙龈处的细菌。其他原因包括牙龈疾病、蛀牙、口干、吸烟、假牙未清洁，以及某些疾病。",
+    "<b>有什么帮助：</b>每天刷牙两次、清洁牙缝、清洁舌头、每天清洁假牙、多喝水并避免吸烟。",
+    "<b>漱口水</b>只能让口气暂时清新，不能治疗原因。",
+    "<b>请看牙医：</b>若清洁得很好口臭仍然持续。牙医可检查是否有牙龈疾病、蛀牙或其他原因，并可能建议您看医生。",
+    "<b>另请参阅：</b> <a href=\"#\" onclick=\"openMod(29);return false\">舌头清洁及其他辅助用具</a>"
+   ],
+   "qa": [],
+   "warning_boxes": [],
+   "why_it_matters": "",
+   "media_placeholders": [
+    "MEDIA TO BE ADDED <IMAGE PLACEHOLDER> Required image: Illustration: common causes of bad breath What the image should demonstrate: Shows the tongue coating, gums, teeth and dentures as sources of bad breath Suggested filename: halitosis-causes.png Recommended dimensions/aspect ratio: 16:9 (1600 × 900 px) Where to upload or replace it: Send the file in the chat and it will be embedded at this exact position (Oral Health Education › Halitosis (Bad Breath), above the text)."
+   ],
+   "source_links": [],
+   "has_professional_advice_card": true
+  },
+  {
+   "type": "module",
+   "id": 38,
+   "title": "🌱 牙齿萌出与发育",
+   "breadcrumb": "首页 › 口腔健康教育（OHE） › 牙齿萌出与发育",
+   "bullets_html": [
+    "<b>Required animation:</b> Tooth eruption timeline",
+    "<b>What movement or process should be demonstrated:</b> Shows primary teeth appearing, then permanent teeth replacing them, with approximate ages",
+    "<b>Suggested filename:</b> tooth-eruption.gif",
+    "<b>Where to upload or replace it:</b> Send the file in the chat and it will be embedded at this exact position (Oral Health Education › Tooth Eruption and Development, above the text).",
+    "<b>乳牙</b>通常在约六个月大时开始萌出，大多数孩子在三岁左右长齐20颗。",
+    "<b>恒牙</b>在约六岁开始萌出，先是第一磨牙和下前牙。乳牙会逐渐脱落，直到约十二岁。",
+    "<b>智齿</b>通常在约17至25岁之间萌出。有些智齿不能完全长出，可能需要牙医检查。",
+    "<b>出牙</b>可能引起流口水、牙龈疼痛和烦躁。干净的牙胶可能有帮助。使用任何药物或凝胶前，请先咨询牙医或医生。",
+    "<b>萌出时间因人而异。</b>若牙齿比预期早很多或晚很多，请咨询牙医。",
+    "资料来源： <a href=\"https://hq.moh.gov.my/ohp/images/pdf/publication/FINAL%20GP%20TODDLER%202022%2010.10.2022.pdf\" target=\"_blank\" rel=\"noopener\">MOH Malaysia, Oral Health Programme: Garis Panduan Perkhidmatan Kesihatan Pergigian Toddler (2022), Appendix 5 Anticipatory Guidance</a>"
+   ],
+   "qa": [],
+   "warning_boxes": [],
+   "why_it_matters": "",
+   "media_placeholders": [
+    "MEDIA TO BE ADDED <GIF / ANIMATION PLACEHOLDER> Required animation: Tooth eruption timeline What movement or process should be demonstrated: Shows primary teeth appearing, then permanent teeth replacing them, with approximate ages Suggested filename: tooth-eruption.gif Where to upload or replace it: Send the file in the chat and it will be embedded at this exact position (Oral Health Education › Tooth Eruption and Development, above the text)."
+   ],
+   "source_links": [
+    "https://hq.moh.gov.my/ohp/images/pdf/publication/FINAL%20GP%20TODDLER%202022%2010.10.2022.pdf"
+   ],
+   "has_professional_advice_card": true
+  },
+  {
+   "type": "module",
+   "id": 39,
+   "title": "🚑 牙外伤与牙科急症",
+   "breadcrumb": "首页 › 口腔健康教育（OHE） › 牙外伤与牙科急症",
+   "bullets_html": [
+    "<b>Required image:</b> Infographic: what to do if a tooth is knocked out",
+    "<b>What the image should demonstrate:</b> Step-by-step: hold by the crown, rinse gently, replace or keep in milk, see a dentist urgently",
+    "<b>Suggested filename:</b> knocked-out-tooth-steps.png",
+    "<b>Recommended dimensions/aspect ratio:</b> 3:4 portrait (1200 × 1600 px)",
+    "<b>Where to upload or replace it:</b> Send the file in the chat and it will be embedded at this exact position (Oral Health Education › Dental Trauma and Emergencies, above the text).",
+    "<b>恒牙被撞掉时：</b>拿住牙冠而不是牙根，不要擦洗。如果脏了，用牛奶或干净的水轻轻冲洗，并尽量把它放回牙槽。如果做不到，把牙齿放在牛奶中，并立即看牙医。不要把乳牙放回去。",
+    "<b>牙齿折断或崩裂：</b>漱口，把碎片放在牛奶中，并尽快看牙医。",
+    "<b>牙痛：</b>用温水漱口，轻轻清洁牙缝，并看牙医。不要把阿司匹林或其他药物放在牙龈上。",
+    "<b>脸部肿胀、发烧，或吞咽、呼吸困难</b>需要紧急就医。请前往最近的医院或诊所。",
+    "<b>预防：</b>参加接触性运动时佩戴护牙套，系好安全带，避免咬很硬的东西。"
+   ],
+   "qa": [],
+   "warning_boxes": [],
+   "why_it_matters": "",
+   "media_placeholders": [
+    "MEDIA TO BE ADDED <IMAGE PLACEHOLDER> Required image: Infographic: what to do if a tooth is knocked out What the image should demonstrate: Step-by-step: hold by the crown, rinse gently, replace or keep in milk, see a dentist urgently Suggested filename: knocked-out-tooth-steps.png Recommended dimensions/aspect ratio: 3:4 portrait (1200 × 1600 px) Where to upload or replace it: Send the file in the chat and it will be embedded at this exact position (Oral Health Education › Dental Trauma and Emergencies, above the text)."
+   ],
+   "source_links": [],
+   "has_professional_advice_card": true
+  },
+  {
+   "type": "module",
+   "id": 40,
+   "title": "📅 定期牙科检查",
+   "breadcrumb": "首页 › 口腔健康教育（OHE） › 定期牙科检查",
+   "bullets_html": [
+    "<b>为什么要定期检查？</b>许多问题，如早期蛀牙、牙龈疾病和口腔癌，一开始并不疼痛。检查能及早发现。",
+    "<b>检查内容：</b>牙医会检查牙齿、牙龈、舌头和口腔黏膜，必要时拍X光片，并就居家护理给出建议。",
+    "<b>多久一次：</b>取决于您患牙科疾病的风险。请询问牙医您应该多久来一次。",
+    "<b>请带上</b>您的用药和健康状况清单，并告诉牙医口腔里的任何变化。",
+    "<b>儿童：</b>第一颗牙长出来就带他们首次看牙，并坚持定期复诊。",
+    "<b>不要等到疼痛才看：</b>若有疼痛、牙龈出血、肿胀、久不愈合的口腔溃疡或牙齿松动，请尽早看牙医。"
+   ],
+   "qa": [],
+   "warning_boxes": [],
+   "why_it_matters": "",
+   "media_placeholders": [],
+   "source_links": [],
+   "has_professional_advice_card": true
+  },
+  {
+   "type": "module",
+   "id": 41,
+   "title": "💡 牙科常见误区与事实",
+   "breadcrumb": "首页 › 口腔健康教育（OHE） › 牙科常见误区与事实",
+   "bullets_html": [
+    "<b>误区：</b>乳牙会掉，所以不重要。<b>事实：</b>乳牙有助于进食和说话，并引导恒牙长到正确位置。蛀牙会引起疼痛和感染。",
+    "<b>误区：</b>用力刷牙刷得更干净。<b>事实：</b>用力刷牙会损伤牙龈和牙釉质。轻柔而彻底最有效。",
+    "<b>误区：</b>牙龈出血就该停止刷牙。<b>事实：</b>出血通常意味着有牙菌斑和牙龈发炎。请继续轻柔清洁，若持续出血请看牙医。",
+    "<b>误区：</b>只有糖会导致蛀牙。<b>事实：</b>细菌会把糖和其他可发酵碳水化合物变成酸。吃甜食的次数很重要，清除牙菌斑和用氟也同样重要。",
+    "<b>误区：</b>漱口水可以取代刷牙。<b>事实：</b>不能。漱口水只是额外的辅助。",
+    "<b>误区：</b>电子烟对口腔是安全的。<b>事实：</b>电子烟并非没有风险。它可能使口腔干燥、刺激牙龈，而且可能含有尼古丁。",
+    "<b>误区：</b>不痛就说明牙齿没问题。<b>事实：</b>早期蛀牙和牙龈疾病往往没有疼痛，所以定期检查很重要。"
+   ],
+   "qa": [],
+   "warning_boxes": [],
+   "why_it_matters": "",
+   "media_placeholders": [],
+   "source_links": [],
+   "has_professional_advice_card": true
+  },
+  {
+   "type": "module",
+   "id": 42,
+   "title": "🎗️ 癌症治疗（化疗和放疗）",
+   "breadcrumb": "首页 › 口腔卫生指导（OHI） › 癌症治疗（化疗和放疗）",
+   "bullets_html": [
+    "<b>为什么重要：</b>头颈部的化疗和放疗可能引起口腔溃疡、口干、感染、味觉改变和蛀牙。",
+    "<b>治疗前：</b>如有可能，请在癌症治疗开始前看牙医，以便先处理牙齿问题。请让您的癌症治疗团队和牙医互相了解情况。",
+    "<b>治疗期间：</b>用非常软的牙刷和含氟牙膏轻柔刷牙，用清水或按建议漱口，避免含酒精的漱口水、辛辣食物和烟草。",
+    "<b>口干和溃疡：</b>常喝水，保持嘴唇湿润，并向治疗团队咨询人工唾液或缓解口腔溃疡的漱口液。",
+    "<b>请及时求助：</b>若口腔溃疡疼痛到无法进食，或出现白色斑块、出血、肿胀、发烧或牙齿松动。如果您的颌骨接受过放疗，请在拔牙前告诉牙医。"
+   ],
+   "qa": [],
+   "warning_boxes": [
+    "⚠ 有待临床审核 本主题的参考资料：有待牙科团队临床审核。"
+   ],
+   "why_it_matters": "",
+   "media_placeholders": [],
+   "source_links": [],
+   "has_professional_advice_card": true
+  },
+  {
+   "type": "module",
+   "id": 43,
+   "title": "💊 同时服用多种药物",
+   "breadcrumb": "首页 › 口腔卫生指导（OHI） › 同时服用多种药物",
+   "bullets_html": [
+    "<b>为什么重要：</b>许多药物，例如治疗高血压、抑郁、过敏、疼痛和膀胱问题的药物，会减少唾液并引起口干。",
+    "<b>影响：</b>口干会增加蛀牙、牙龈问题、口腔感染和假牙不适的风险。有些药物还可能引起牙龈增生或改变味觉。",
+    "<b>口腔卫生：</b>每天用含氟牙膏刷牙两次，清洁牙缝，常喝水，避免含糖饮料。请向药剂师询问液体药物的无糖版本。",
+    "<b>请告诉牙医</b>您服用的所有药物，包括草药产品，并在每次就诊时带上清单。没有询问医生，不要自行停药。",
+    "<b>请看牙医：</b>若口腔感到干燥，或出现溃疡、牙龈肿胀或味觉改变。"
+   ],
+   "qa": [],
+   "warning_boxes": [
+    "⚠ 有待临床审核 本主题的参考资料：有待牙科团队临床审核。"
+   ],
+   "why_it_matters": "",
+   "media_placeholders": [],
+   "source_links": [],
+   "has_professional_advice_card": true
+  },
+  {
+   "type": "age",
+   "id": 0,
+   "title": "婴幼儿（0–3岁）",
+   "breadcrumb": "首页 › 口腔卫生指导（OHI） › 婴幼儿（0–3岁）",
+   "bullets_html": [
+    "<b>Required image:</b> Photo: cleaning an infant’s gums and teeth",
+    "<b>What the image should demonstrate:</b> Shows a parent gently cleaning a baby’s gums and first teeth with a toothbrush or clean cloth",
+    "<b>Suggested filename:</b> infants-cleaning-gums.jpg",
+    "<b>Recommended dimensions/aspect ratio:</b> 4:3 (1600 × 1200 px)",
+    "<b>Where to upload or replace it:</b> Send the file in the chat and it will be embedded at this exact position (Oral Hygiene Instruction › Age Groups › Infants and Toddlers (0–3 years)).",
+    "<b>Required video:</b> Parent brushing a toddler’s teeth",
+    "<b>Suggested video title:</b> How to Brush Your Toddler’s Teeth",
+    "<b>What the video should demonstrate:</b> Shows a parent positioning and brushing a toddler’s teeth gently",
+    "<b>Recommended duration:</b> 60–90 seconds",
+    "<b>Suggested filename:</b> infants-toddler-brushing.mp4",
+    "<b>Where to upload or replace it:</b> Send the file in the chat and it will be embedded at this exact position (Oral Hygiene Instruction › Age Groups › Infants and Toddlers (0–3 years))."
+   ],
+   "qa": [
+    {
+     "q": "我应该多久刷一次牙？",
+     "a": "第一颗牙长出后每天刷牙两次。在此之前，用干净湿润的布轻轻擦拭牙龈。"
+    },
+    {
+     "q": "我应该使用哪种牙刷？",
+     "a": "柔软的小头婴儿牙刷。牙齿长出之前，用干净湿润的布。"
+    },
+    {
+     "q": "我应该用多少牙膏？",
+     "a": "极少量含氟牙膏，约米粒大小，由成人挤放。"
+    },
+    {
+     "q": "牙刷应该怎样放置？",
+     "a": "舒适地抱着宝宝并托住头部，轻轻掀起嘴唇以看到牙齿。"
+    },
+    {
+     "q": "刷牙时应该怎样移动牙刷？",
+     "a": "用轻柔的小圆圈或短距离来回动作，由家长或照护者来刷。"
+    },
+    {
+     "q": "应该清洁牙齿的哪些表面？",
+     "a": "刷净每颗牙齿的外侧、内侧和咬合面，包括后牙和牙龈线处。"
+    },
+    {
+     "q": "怎样清洁牙缝？",
+     "a": "牙齿互相接触后，请向牙科团队询问如何清洁牙缝。"
+    },
+    {
+     "q": "需要清洁舌头吗？",
+     "a": "用干净湿润的布轻轻擦拭舌头。"
+    },
+    {
+     "q": "应避免哪些常见错误？",
+     "a": "让宝宝含着奶瓶或甜饮料入睡。"
+    },
+    {
+     "q": "什么时候应该看牙医？",
+     "a": "牙齿一长出来就带宝宝首次看牙医，之后定期复诊。"
+    },
+    {
+     "q": "乳牙萌出与出牙：",
+     "a": "第一颗牙通常在约六个月大时长出。出牙可能引起流口水和牙龈疼痛，干净的牙胶可能有帮助。 延伸阅读： <a href=\"#\" onclick=\"openMod(38);return false\">牙齿萌出与发育</a>"
+    },
+    {
+     "q": "奶瓶喂养与幼儿龋齿：",
+     "a": "不要让宝宝含着奶瓶或甜饮料入睡，也不要加糖。请按医护团队的建议改用杯子。 延伸阅读： <a href=\"#\" onclick=\"openMod(20);return false\">龋齿（蛀牙）</a>"
+    },
+    {
+     "q": "吸吮拇指和安抚奶嘴：",
+     "a": "婴儿吸吮是正常的。若在幼儿期之后仍持续，可能影响牙齿和颌骨发育，请咨询牙医。切勿把安抚奶嘴蘸糖或蜂蜜。"
+    },
+    {
+     "q": "首次看牙：",
+     "a": "第一颗牙长出来就带宝宝看牙，并向牙科团队询问氟和喂养的问题。 延伸阅读： <a href=\"#\" onclick=\"openMod(40);return false\">定期牙科检查</a>"
+    },
+    {
+     "q": "掀唇检查：",
+     "a": "每月一次，轻轻掀起孩子的嘴唇，查看前牙。白色或褐色斑点可能是幼儿龋齿的最初迹象。若发现请看牙医。"
+    },
+    {
+     "q": "清洁婴儿的牙齿：",
+     "a": "牙齿长出后，每餐后和睡前用软毛牙刷和清水清洁牙齿和牙龈。请在12个月大之前带宝宝首次看牙。"
+    }
+   ],
+   "warning_boxes": [
+    "⚠ 用量与含氟浓度：马来西亚卫生部2022年幼儿指南建议1至4岁儿童每天至少刷牙两次，使用少量（薄薄一层）或豌豆大小的含氟牙膏。各年龄的确切用量和含氟浓度仍需牙科团队确认。"
+   ],
+   "why_it_matters": "",
+   "media_placeholders": [
+    "MEDIA TO BE ADDED <IMAGE PLACEHOLDER> Required image: Photo: cleaning an infant’s gums and teeth What the image should demonstrate: Shows a parent gently cleaning a baby’s gums and first teeth with a toothbrush or clean cloth Suggested filename: infants-cleaning-gums.jpg Recommended dimensions/aspect ratio: 4:3 (1600 × 1200 px) Where to upload or replace it: Send the file in the chat and it will be embedded at this exact position (Oral Hygiene Instruction › Age Groups › Infants and Toddlers (0–3 years)).",
+    "MEDIA TO BE ADDED <VIDEO PLACEHOLDER> Required video: Parent brushing a toddler’s teeth Suggested video title: How to Brush Your Toddler’s Teeth What the video should demonstrate: Shows a parent positioning and brushing a toddler’s teeth gently Recommended duration: 60–90 seconds Suggested filename: infants-toddler-brushing.mp4 Where to upload or replace it: Send the file in the chat and it will be embedded at this exact position (Oral Hygiene Instruction › Age Groups › Infants and Toddlers (0–3 years))."
+   ],
+   "source_links": [
+    "https://hq.moh.gov.my/ohp/images/pdf/publication/FINAL%20GP%20TODDLER%202022%2010.10.2022.pdf"
+   ],
+   "has_professional_advice_card": true
+  },
+  {
+   "type": "age",
+   "id": 1,
+   "title": "学龄前儿童（4–6岁）",
+   "breadcrumb": "首页 › 口腔卫生指导（OHI） › 儿童（4–12岁）",
+   "bullets_html": [
+    "<b>Required animation:</b> Gentle circular brushing movements",
+    "<b>What movement or process should be demonstrated:</b> Shows small circular movements over the outer surfaces of the teeth, with a parent helping",
+    "<b>Suggested filename:</b> preschool-circular-brushing.gif",
+    "<b>Where to upload or replace it:</b> Send the file in the chat and it will be embedded at this exact position (Oral Hygiene Instruction › Age Groups › Preschool Children (4–6 years)).",
+    "<b>Required video:</b> Parent and child brushing together",
+    "<b>Suggested video title:</b> Brushing Together: Parent and Preschool Child",
+    "<b>What the video should demonstrate:</b> Shows a parent supervising and helping a child to brush",
+    "<b>Recommended duration:</b> 60–90 seconds",
+    "<b>Suggested filename:</b> preschool-parent-child-brushing.mp4",
+    "<b>Where to upload or replace it:</b> Send the file in the chat and it will be embedded at this exact position (Oral Hygiene Instruction › Age Groups › Preschool Children (4–6 years))."
+   ],
+   "qa": [
+    {
+     "q": "我应该多久刷一次牙？",
+     "a": "每天刷牙两次，早上和睡前，每次约两分钟。"
+    },
+    {
+     "q": "我应该使用哪种牙刷？",
+     "a": "软毛小头牙刷，刷柄较粗，容易握住。"
+    },
+    {
+     "q": "我应该用多少牙膏？",
+     "a": "豌豆大小的含氟牙膏，由家长挤在牙刷上。"
+    },
+    {
+     "q": "牙刷应该怎样放置？",
+     "a": "把牙刷贴着牙齿和牙龈，由家长协助握住和引导。"
+    },
+    {
+     "q": "刷牙时应该怎样移动牙刷？",
+     "a": "在牙齿外侧用轻柔的圆圈动作（Fones 刷牙法），再在内侧和咬合面用来回动作。"
+    },
+    {
+     "q": "应该清洁牙齿的哪些表面？",
+     "a": "刷净每颗牙齿的外侧、内侧和咬合面，包括后牙和牙龈线处。"
+    },
+    {
+     "q": "怎样清洁牙缝？",
+     "a": "牙齿相接处由家长使用牙线，必要时用牙线棒。"
+    },
+    {
+     "q": "需要清洁舌头吗？",
+     "a": "需要。轻轻刷或刮舌头，有助于保持口气清新。"
+    },
+    {
+     "q": "应避免哪些常见错误？",
+     "a": "自己刷牙而家长没有帮忙刷干净，以及吞下牙膏。"
+    },
+    {
+     "q": "什么时候应该看牙医？",
+     "a": "定期看牙医检查；若有疼痛、牙龈出血、肿胀或口腔任何变化，应更早就诊。"
+    },
+    {
+     "q": "乳牙仍然重要：",
+     "a": "它们为恒牙留出位置。乳牙蛀牙会引起疼痛和感染。"
+    },
+    {
+     "q": "涂氟：",
+     "a": "牙科团队可能会在牙齿上涂氟保护漆来帮助预防蛀牙，尤其适合风险较高的儿童。 延伸阅读： <a href=\"#\" onclick=\"openMod(34);return false\">氟化物认知</a>"
+    },
+    {
+     "q": "习惯：",
+     "a": "长期吸吮拇指或使用安抚奶嘴可能影响咬合。请向牙医寻求帮助戒除。"
+    },
+    {
+     "q": "健康饮食：",
+     "a": "把甜食和甜饮料安排在正餐时间，多给孩子喝水、吃水果和蔬菜。 延伸阅读： <a href=\"#\" onclick=\"openMod(22);return false\">饮食与口腔健康</a>"
+    }
+   ],
+   "warning_boxes": [
+    "⚠ 用量与含氟浓度：马来西亚卫生部2022年幼儿指南建议1至4岁儿童每天至少刷牙两次，使用少量（薄薄一层）或豌豆大小的含氟牙膏。各年龄的确切用量和含氟浓度仍需牙科团队确认。"
+   ],
+   "why_it_matters": "",
+   "media_placeholders": [
+    "MEDIA TO BE ADDED <GIF / ANIMATION PLACEHOLDER> Required animation: Gentle circular brushing movements What movement or process should be demonstrated: Shows small circular movements over the outer surfaces of the teeth, with a parent helping Suggested filename: preschool-circular-brushing.gif Where to upload or replace it: Send the file in the chat and it will be embedded at this exact position (Oral Hygiene Instruction › Age Groups › Preschool Children (4–6 years)).",
+    "MEDIA TO BE ADDED <VIDEO PLACEHOLDER> Required video: Parent and child brushing together Suggested video title: Brushing Together: Parent and Preschool Child What the video should demonstrate: Shows a parent supervising and helping a child to brush Recommended duration: 60–90 seconds Suggested filename: preschool-parent-child-brushing.mp4 Where to upload or replace it: Send the file in the chat and it will be embedded at this exact position (Oral Hygiene Instruction › Age Groups › Preschool Children (4–6 years))."
+   ],
+   "source_links": [
+    "https://hq.moh.gov.my/ohp/images/pdf/publication/FINAL%20GP%20TODDLER%202022%2010.10.2022.pdf"
+   ],
+   "has_professional_advice_card": true
+  },
+  {
+   "type": "age",
+   "id": 2,
+   "title": "学龄儿童（7–12岁）",
+   "breadcrumb": "首页 › 口腔卫生指导（OHI） › 儿童（4–12岁）",
+   "bullets_html": [
+    "<b>Required animation:</b> Brushing all surfaces of the teeth, including the back molars",
+    "<b>What movement or process should be demonstrated:</b> Shows brushing in order: outer, inner and chewing surfaces, ending with the back molars",
+    "<b>Suggested filename:</b> school-all-surfaces-brushing.gif",
+    "<b>Where to upload or replace it:</b> Send the file in the chat and it will be embedded at this exact position (Oral Hygiene Instruction › Age Groups › School-Aged Children (7–12 years)).",
+    "<b>Required video:</b> Correct brushing demonstration for children",
+    "<b>Suggested video title:</b> Correct Toothbrushing for School-Aged Children",
+    "<b>What the video should demonstrate:</b> Shows a child brushing every surface while a parent checks",
+    "<b>Recommended duration:</b> 90–120 seconds",
+    "<b>Suggested filename:</b> school-brushing-demo.mp4",
+    "<b>Where to upload or replace it:</b> Send the file in the chat and it will be embedded at this exact position (Oral Hygiene Instruction › Age Groups › School-Aged Children (7–12 years))."
+   ],
+   "qa": [
+    {
+     "q": "我应该多久刷一次牙？",
+     "a": "每天刷牙两次，早上和睡前，每次约两分钟。"
+    },
+    {
+     "q": "我应该使用哪种牙刷？",
+     "a": "软毛小头牙刷，能够刷到后面的磨牙。"
+    },
+    {
+     "q": "我应该用多少牙膏？",
+     "a": "豌豆大小的含氟牙膏。吐出泡沫，不要立刻漱口。"
+    },
+    {
+     "q": "牙刷应该怎样放置？",
+     "a": "让刷毛稍微朝牙龈倾斜。特别留意后面新长出的恒磨牙。"
+    },
+    {
+     "q": "刷牙时应该怎样移动牙刷？",
+     "a": "每次按相同顺序刷所有牙面，避免遗漏，动作小而轻柔。"
+    },
+    {
+     "q": "应该清洁牙齿的哪些表面？",
+     "a": "刷净每颗牙齿的外侧、内侧和咬合面，包括后牙和牙龈线处。"
+    },
+    {
+     "q": "怎样清洁牙缝？",
+     "a": "牙齿相接后开始使用牙线，起初由家长协助。"
+    },
+    {
+     "q": "需要清洁舌头吗？",
+     "a": "需要。轻轻刷或刮舌头，有助于保持口气清新。"
+    },
+    {
+     "q": "应避免哪些常见错误？",
+     "a": "匆忙刷牙、漏刷后面的磨牙、用力过大。"
+    },
+    {
+     "q": "什么时候应该看牙医？",
+     "a": "定期看牙医检查；若有疼痛、牙龈出血、肿胀或口腔任何变化，应更早就诊。"
+    },
+    {
+     "q": "替牙期：",
+     "a": "乳牙和恒牙同时在口腔中。第一颗恒磨牙在约六岁时长在乳牙后面，常被误认为乳牙。请把它们刷干净。"
+    },
+    {
+     "q": "窝沟封闭：",
+     "a": "由牙科专业人员在后牙咬合面涂上一层薄薄的保护层，有助于预防深沟中的蛀牙。"
+    },
+    {
+     "q": "涂氟与预防蛀牙：",
+     "a": "请询问牙医孩子是否需要涂氟。 延伸阅读： <a href=\"#\" onclick=\"openMod(34);return false\">氟化物认知</a>"
+    },
+    {
+     "q": "减少糖分：",
+     "a": "选择清水和无糖鲜奶，把糖果安排在正餐时间。 延伸阅读： <a href=\"#\" onclick=\"openMod(22);return false\">饮食与口腔健康</a>"
+    },
+    {
+     "q": "运动：",
+     "a": "参加接触性运动时佩戴护牙套。 延伸阅读： <a href=\"#\" onclick=\"openMod(39);return false\">牙外伤与牙科急症</a>"
+    }
+   ],
+   "warning_boxes": [
+    "⚠ 用量与含氟浓度：马来西亚卫生部2022年幼儿指南建议1至4岁儿童每天至少刷牙两次，使用少量（薄薄一层）或豌豆大小的含氟牙膏。各年龄的确切用量和含氟浓度仍需牙科团队确认。"
+   ],
+   "why_it_matters": "",
+   "media_placeholders": [
+    "MEDIA TO BE ADDED <GIF / ANIMATION PLACEHOLDER> Required animation: Brushing all surfaces of the teeth, including the back molars What movement or process should be demonstrated: Shows brushing in order: outer, inner and chewing surfaces, ending with the back molars Suggested filename: school-all-surfaces-brushing.gif Where to upload or replace it: Send the file in the chat and it will be embedded at this exact position (Oral Hygiene Instruction › Age Groups › School-Aged Children (7–12 years)).",
+    "MEDIA TO BE ADDED <VIDEO PLACEHOLDER> Required video: Correct brushing demonstration for children Suggested video title: Correct Toothbrushing for School-Aged Children What the video should demonstrate: Shows a child brushing every surface while a parent checks Recommended duration: 90–120 seconds Suggested filename: school-brushing-demo.mp4 Where to upload or replace it: Send the file in the chat and it will be embedded at this exact position (Oral Hygiene Instruction › Age Groups › School-Aged Children (7–12 years))."
+   ],
+   "source_links": [],
+   "has_professional_advice_card": true
+  },
+  {
+   "type": "age",
+   "id": 3,
+   "title": "青少年（13–19岁）",
+   "breadcrumb": "首页 › 口腔卫生指导（OHI） › 青少年（13–19岁）",
+   "bullets_html": [
+    "<b>Required animation:</b> Cleaning along the gumline",
+    "<b>What movement or process should be demonstrated:</b> Shows the brush tilted towards the gums with small gentle movements along the gumline",
+    "<b>Suggested filename:</b> teen-gumline-cleaning.gif",
+    "<b>Where to upload or replace it:</b> Send the file in the chat and it will be embedded at this exact position (Oral Hygiene Instruction › Age Groups › Teenagers (13–19 years)).",
+    "<b>Required video:</b> Brushing around orthodontic brackets and wires",
+    "<b>Suggested video title:</b> Brushing Around Braces",
+    "<b>What the video should demonstrate:</b> Shows brushing above, below and around brackets and wires, and interdental brush use",
+    "<b>Recommended duration:</b> 90–120 seconds",
+    "<b>Suggested filename:</b> teen-braces-brushing.mp4",
+    "<b>Where to upload or replace it:</b> Send the file in the chat and it will be embedded at this exact position (Oral Hygiene Instruction › Age Groups › Teenagers (13–19 years))."
+   ],
+   "qa": [
+    {
+     "q": "我应该多久刷一次牙？",
+     "a": "每天刷牙两次，早上和睡前，每次约两分钟。"
+    },
+    {
+     "q": "我应该使用哪种牙刷？",
+     "a": "软毛小头牙刷。戴牙套者可使用正畸专用牙刷。"
+    },
+    {
+     "q": "我应该用多少牙膏？",
+     "a": "豌豆大小的含氟牙膏。"
+    },
+    {
+     "q": "牙刷应该怎样放置？",
+     "a": "把牙刷放在牙齿与牙龈相接处，刷毛稍微朝牙龈倾斜。"
+    },
+    {
+     "q": "刷牙时应该怎样移动牙刷？",
+     "a": "用轻柔的小动作，再朝咬合面方向轻扫（改良巴氏刷牙法）。"
+    },
+    {
+     "q": "应该清洁牙齿的哪些表面？",
+     "a": "刷净每颗牙齿的外侧、内侧和咬合面，包括后牙和牙龈线处。"
+    },
+    {
+     "q": "怎样清洁牙缝？",
+     "a": "每天用牙线或牙缝刷清洁牙缝，包括牙套周围。"
+    },
+    {
+     "q": "需要清洁舌头吗？",
+     "a": "需要。轻轻刷或刮舌头，有助于保持口气清新。"
+    },
+    {
+     "q": "应避免哪些常见错误？",
+     "a": "用力过大、漏刷牙龈线、经常喝含糖饮料。"
+    },
+    {
+     "q": "什么时候应该看牙医？",
+     "a": "定期看牙医检查；若有疼痛、牙龈出血、肿胀或口腔任何变化，应更早就诊。"
+    },
+    {
+     "q": "牙套：",
+     "a": "托槽和钢丝容易积聚牙菌斑，请仔细清洁周围，并使用牙缝刷。 延伸阅读： <a href=\"#\" onclick=\"openMod(11);return false\">牙套与隐形矫治器</a>"
+    },
+    {
+     "q": "智齿：",
+     "a": "通常在约17至25岁之间萌出。若有疼痛、肿胀或牙龈盖住部分牙齿，请看牙医。 延伸阅读： <a href=\"#\" onclick=\"openMod(38);return false\">牙齿萌出与发育</a>"
+    },
+    {
+     "q": "运动护牙套：",
+     "a": "参加接触性运动时佩戴合适的护牙套，保护牙齿和嘴唇。 延伸阅读： <a href=\"#\" onclick=\"openMod(39);return false\">牙外伤与牙科急症</a>"
+    },
+    {
+     "q": "吸烟和电子烟：",
+     "a": "两者都会影响牙龈和口气，而且尼古丁会成瘾。请寻求戒烟帮助。 延伸阅读： <a href=\"#\" onclick=\"openMod(23);return false\">烟草与电子烟</a>"
+    },
+    {
+     "q": "含糖饮料：",
+     "a": "经常喝汽水、能量饮料和加糖的茶或咖啡，会导致蛀牙和牙齿酸蚀。 延伸阅读： <a href=\"#\" onclick=\"openMod(22);return false\">饮食与口腔健康</a> · <a href=\"#\" onclick=\"openMod(36);return false\">牙齿酸蚀</a>"
+    },
+    {
+     "q": "青春期：",
+     "a": "激素变化会使牙龈更容易发红肿胀，请沿牙龈线仔细清洁。 延伸阅读： <a href=\"#\" onclick=\"openMod(21);return false\">牙龈疾病</a>"
+    }
+   ],
+   "warning_boxes": [
+    "⚠ 用量与含氟浓度：马来西亚卫生部2022年幼儿指南建议1至4岁儿童每天至少刷牙两次，使用少量（薄薄一层）或豌豆大小的含氟牙膏。各年龄的确切用量和含氟浓度仍需牙科团队确认。"
+   ],
+   "why_it_matters": "",
+   "media_placeholders": [
+    "MEDIA TO BE ADDED <GIF / ANIMATION PLACEHOLDER> Required animation: Cleaning along the gumline What movement or process should be demonstrated: Shows the brush tilted towards the gums with small gentle movements along the gumline Suggested filename: teen-gumline-cleaning.gif Where to upload or replace it: Send the file in the chat and it will be embedded at this exact position (Oral Hygiene Instruction › Age Groups › Teenagers (13–19 years)).",
+    "MEDIA TO BE ADDED <VIDEO PLACEHOLDER> Required video: Brushing around orthodontic brackets and wires Suggested video title: Brushing Around Braces What the video should demonstrate: Shows brushing above, below and around brackets and wires, and interdental brush use Recommended duration: 90–120 seconds Suggested filename: teen-braces-brushing.mp4 Where to upload or replace it: Send the file in the chat and it will be embedded at this exact position (Oral Hygiene Instruction › Age Groups › Teenagers (13–19 years))."
+   ],
+   "source_links": [],
+   "has_professional_advice_card": true
+  },
+  {
+   "type": "age",
+   "id": 4,
+   "title": "成人（20–59岁）",
+   "breadcrumb": "首页 › 口腔卫生指导（OHI） › 成人（20–59岁）",
+   "bullets_html": [
+    "<b>Required animation:</b> Toothbrush positioning and gentle Modified Bass movements",
+    "<b>What movement or process should be demonstrated:</b> Shows the brush at the gumline, small gentle movements, then a sweep towards the chewing surface",
+    "<b>Suggested filename:</b> adult-modified-bass.gif",
+    "<b>Where to upload or replace it:</b> Send the file in the chat and it will be embedded at this exact position (Oral Hygiene Instruction › Age Groups › Adults (20–59 years)).",
+    "<b>Required video:</b> Complete toothbrushing demonstration",
+    "<b>Suggested video title:</b> Complete Toothbrushing Routine for Adults",
+    "<b>What the video should demonstrate:</b> Shows the full routine including interdental and tongue cleaning",
+    "<b>Recommended duration:</b> 2–3 minutes",
+    "<b>Suggested filename:</b> adult-complete-brushing.mp4",
+    "<b>Where to upload or replace it:</b> Send the file in the chat and it will be embedded at this exact position (Oral Hygiene Instruction › Age Groups › Adults (20–59 years))."
+   ],
+   "qa": [
+    {
+     "q": "我应该多久刷一次牙？",
+     "a": "每天刷牙两次，早上和睡前，每次约两分钟。"
+    },
+    {
+     "q": "我应该使用哪种牙刷？",
+     "a": "软毛小头牙刷，电动牙刷也适合。"
+    },
+    {
+     "q": "我应该用多少牙膏？",
+     "a": "豌豆大小的含氟牙膏。"
+    },
+    {
+     "q": "牙刷应该怎样放置？",
+     "a": "把牙刷放在牙齿与牙龈相接处，刷毛稍微朝牙龈倾斜。"
+    },
+    {
+     "q": "刷牙时应该怎样移动牙刷？",
+     "a": "用轻柔的小动作和较轻的力度，再朝咬合面方向轻扫（改良巴氏刷牙法）。"
+    },
+    {
+     "q": "应该清洁牙齿的哪些表面？",
+     "a": "刷净每颗牙齿的外侧、内侧和咬合面，包括后牙和牙龈线处。"
+    },
+    {
+     "q": "怎样清洁牙缝？",
+     "a": "每天用牙线或牙缝刷清洁牙缝一次。"
+    },
+    {
+     "q": "需要清洁舌头吗？",
+     "a": "需要。轻轻刷或刮舌头，有助于保持口气清新。"
+    },
+    {
+     "q": "应避免哪些常见错误？",
+     "a": "用力过大、匆忙刷牙、漏刷牙龈线。"
+    },
+    {
+     "q": "什么时候应该看牙医？",
+     "a": "定期看牙医检查；若有疼痛、牙龈出血、肿胀或口腔任何变化，应更早就诊。"
+    },
+    {
+     "q": "预防牙龈疾病：",
+     "a": "每天清洁牙缝，不吸烟，并定期看牙医。 延伸阅读： <a href=\"#\" onclick=\"openMod(21);return false\">牙龈疾病</a>"
+    },
+    {
+     "q": "龋齿：",
+     "a": "成人仍然会蛀牙，包括旧补牙周围和牙龈线处。请使用含氟牙膏。 延伸阅读： <a href=\"#\" onclick=\"openMod(20);return false\">龋齿（蛀牙）</a>"
+    },
+    {
+     "q": "敏感与酸蚀：",
+     "a": "轻柔刷牙，并限制酸性饮料。 延伸阅读： <a href=\"#\" onclick=\"openMod(15);return false\">牙齿敏感</a> · <a href=\"#\" onclick=\"openMod(36);return false\">牙齿酸蚀</a>"
+    },
+    {
+     "q": "吸烟与口腔健康：",
+     "a": "吸烟会伤害牙龈，并增加口腔癌风险。 延伸阅读： <a href=\"#\" onclick=\"openMod(23);return false\">烟草与电子烟</a> · <a href=\"#\" onclick=\"openMod(19);return false\">口腔癌认知</a>"
+    },
+    {
+     "q": "预防性护理：",
+     "a": "定期检查和专业洁牙。 延伸阅读： <a href=\"#\" onclick=\"openMod(40);return false\">定期牙科检查</a>"
+    }
+   ],
+   "warning_boxes": [
+    "⚠ 用量与含氟浓度：马来西亚卫生部2022年幼儿指南建议1至4岁儿童每天至少刷牙两次，使用少量（薄薄一层）或豌豆大小的含氟牙膏。各年龄的确切用量和含氟浓度仍需牙科团队确认。"
+   ],
+   "why_it_matters": "",
+   "media_placeholders": [
+    "MEDIA TO BE ADDED <GIF / ANIMATION PLACEHOLDER> Required animation: Toothbrush positioning and gentle Modified Bass movements What movement or process should be demonstrated: Shows the brush at the gumline, small gentle movements, then a sweep towards the chewing surface Suggested filename: adult-modified-bass.gif Where to upload or replace it: Send the file in the chat and it will be embedded at this exact position (Oral Hygiene Instruction › Age Groups › Adults (20–59 years)).",
+    "MEDIA TO BE ADDED <VIDEO PLACEHOLDER> Required video: Complete toothbrushing demonstration Suggested video title: Complete Toothbrushing Routine for Adults What the video should demonstrate: Shows the full routine including interdental and tongue cleaning Recommended duration: 2–3 minutes Suggested filename: adult-complete-brushing.mp4 Where to upload or replace it: Send the file in the chat and it will be embedded at this exact position (Oral Hygiene Instruction › Age Groups › Adults (20–59 years))."
+   ],
+   "source_links": [],
+   "has_professional_advice_card": true
+  },
+  {
+   "type": "age",
+   "id": 5,
+   "title": "老年人（60岁及以上）",
+   "breadcrumb": "首页 › 口腔卫生指导（OHI） › 老年人（60岁及以上）",
+   "bullets_html": [
+    "<b>Required image:</b> Photo: different toothbrush handles and adaptive toothbrushes",
+    "<b>What the image should demonstrate:</b> Shows thick, adapted and powered toothbrush handles side by side, labelled",
+    "<b>Suggested filename:</b> older-adaptive-toothbrushes.jpg",
+    "<b>Recommended dimensions/aspect ratio:</b> 4:3 (1600 × 1200 px)",
+    "<b>Where to upload or replace it:</b> Send the file in the chat and it will be embedded at this exact position (Oral Hygiene Instruction › Age Groups › Elderly (60 years and above)).",
+    "<b>Required video:</b> Brushing with reduced hand dexterity",
+    "<b>Suggested video title:</b> Brushing with Reduced Hand Dexterity",
+    "<b>What the video should demonstrate:</b> Shows adapted handles, elbow support and caregiver-assisted brushing",
+    "<b>Recommended duration:</b> 90–120 seconds",
+    "<b>Suggested filename:</b> older-reduced-dexterity-brushing.mp4",
+    "<b>Where to upload or replace it:</b> Send the file in the chat and it will be embedded at this exact position (Oral Hygiene Instruction › Age Groups › Elderly (60 years and above))."
+   ],
+   "qa": [
+    {
+     "q": "我应该多久刷一次牙？",
+     "a": "每天刷牙两次，早上和睡前，每次约两分钟。"
+    },
+    {
+     "q": "我应该使用哪种牙刷？",
+     "a": "软毛牙刷。若握力较弱，请选用较粗或经改装的刷柄，或电动牙刷。"
+    },
+    {
+     "q": "我应该用多少牙膏？",
+     "a": "豌豆大小的含氟牙膏。"
+    },
+    {
+     "q": "牙刷应该怎样放置？",
+     "a": "让刷毛轻轻朝牙龈线倾斜。若手会抖，可把手肘靠在桌上。"
+    },
+    {
+     "q": "刷牙时应该怎样移动牙刷？",
+     "a": "用轻柔的小动作和较轻的力度，尤其是牙龈退缩、牙根外露的地方。"
+    },
+    {
+     "q": "应该清洁牙齿的哪些表面？",
+     "a": "刷净每颗牙齿的外侧、内侧和咬合面，包括后牙和牙龈线处。"
+    },
+    {
+     "q": "怎样清洁牙缝？",
+     "a": "每天使用牙缝刷或牙线棒。戴假牙者请按建议清洁假牙。"
+    },
+    {
+     "q": "需要清洁舌头吗？",
+     "a": "需要。轻轻刷或刮舌头，有助于保持口气清新。"
+    },
+    {
+     "q": "应避免哪些常见错误？",
+     "a": "对外露牙根用力过大，以及疲倦时就不刷牙。"
+    },
+    {
+     "q": "什么时候应该看牙医？",
+     "a": "定期看牙医检查；若有疼痛、牙龈出血、肿胀或口腔任何变化，应更早就诊。"
+    },
+    {
+     "q": "根面龋：",
+     "a": "牙龈退缩后牙根外露，更容易蛀牙。请使用含氟牙膏并仔细清洁。 延伸阅读： <a href=\"#\" onclick=\"openMod(20);return false\">龋齿（蛀牙）</a>"
+    },
+    {
+     "q": "口干：",
+     "a": "许多药物会减少唾液。请常喝水，并咨询牙医或药剂师。 延伸阅读： <a href=\"#\" onclick=\"openMod(14);return false\">口干</a>"
+    },
+    {
+     "q": "牙龈退缩：",
+     "a": "用软毛牙刷轻柔刷牙，避免磨损牙龈和牙根。 延伸阅读： <a href=\"#\" onclick=\"openMod(21);return false\">牙龈疾病</a>"
+    },
+    {
+     "q": "掉牙与假牙：",
+     "a": "尽可能保留天然牙。每天清洁假牙，并按建议晚上取下。 延伸阅读： <a href=\"#\" onclick=\"openMod(12);return false\">假牙</a>"
+    },
+    {
+     "q": "灵活性下降与照护者协助：",
+     "a": "改装的刷柄和电动牙刷可能有帮助，照护者也可以协助。 延伸阅读： <a href=\"#\" onclick=\"openMod(31);return false\">适应性牙刷与辅助用具（特殊需要/OKU）</a>"
+    }
+   ],
+   "warning_boxes": [
+    "⚠ 用量与含氟浓度：马来西亚卫生部2022年幼儿指南建议1至4岁儿童每天至少刷牙两次，使用少量（薄薄一层）或豌豆大小的含氟牙膏。各年龄的确切用量和含氟浓度仍需牙科团队确认。"
+   ],
+   "why_it_matters": "",
+   "media_placeholders": [
+    "MEDIA TO BE ADDED <IMAGE PLACEHOLDER> Required image: Photo: different toothbrush handles and adaptive toothbrushes What the image should demonstrate: Shows thick, adapted and powered toothbrush handles side by side, labelled Suggested filename: older-adaptive-toothbrushes.jpg Recommended dimensions/aspect ratio: 4:3 (1600 × 1200 px) Where to upload or replace it: Send the file in the chat and it will be embedded at this exact position (Oral Hygiene Instruction › Age Groups › Elderly (60 years and above)).",
+    "MEDIA TO BE ADDED <VIDEO PLACEHOLDER> Required video: Brushing with reduced hand dexterity Suggested video title: Brushing with Reduced Hand Dexterity What the video should demonstrate: Shows adapted handles, elbow support and caregiver-assisted brushing Recommended duration: 90–120 seconds Suggested filename: older-reduced-dexterity-brushing.mp4 Where to upload or replace it: Send the file in the chat and it will be embedded at this exact position (Oral Hygiene Instruction › Age Groups › Elderly (60 years and above))."
+   ],
+   "source_links": [],
+   "has_professional_advice_card": true
+  }
+ ]
+}

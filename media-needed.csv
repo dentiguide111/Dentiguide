@@ -1,0 +1,52 @@
+type,suggested_filename,required,what_it_must_show,page,status
+IMAGE,toothbrush-types-bristles.jpg,"Photo: manual and electric toothbrushes, and soft, medium and hard bristles compared","Shows a manual and a powered toothbrush side by side, with labelled close-ups of soft, medium and hard bristles",module 1 - 🪥 Toothbrushes: Choosing and Using,uploaded?: no
+VIDEO,flossing-demo.mp4,Flossing demonstration,Shows the C-shape technique and a floss holder for people with limited dexterity,module 3 - 🧵 How to Floss,uploaded?: no
+IMAGE,common-oral-conditions.png,Overview: five common oral conditions,"Labelled illustrations of dental caries, gingivitis, periodontitis, halitosis and tooth sensitivity",module 4 - 🦷 Oral Health and Dental Diseases,uploaded?: no
+VIDEO,special-needs-assisted-brushing.mp4,Assisted toothbrushing for a person with special needs,Shows a caregiver positioning the person comfortably and brushing step by step,module 9 - ♿ Special Needs (including OKU),uploaded?: no
+GIF,braces-interdental-brush.gif,Interdental brush cleaning around brackets,,module 11 - 😁 Braces & Aligners,uploaded?: no
+VIDEO,denture-removal-cleaning.mp4,Denture removal and cleaning,"Shows removing partial and complete dentures, cleaning them over a basin of water and storing them",module 12 - 🦷 Dentures,uploaded?: no
+IMAGE,pregnancy-gum-care-infographic.png,Infographic: gum care during pregnancy,Shows pregnancy-related gum changes and simple daily care steps,module 13 - 🤰 Pregnant Women,uploaded?: no
+IMAGE,dry-mouth-infographic.png,Infographic: practical ways to manage dry mouth,"Shows sipping water, sugar-free gum, avoiding tobacco and alcohol, and fluoride toothpaste",module 14 - 💧 Dry Mouth,uploaded?: no
+GIF,implant-cleaning.gif,Cleaning around a dental implant,,module 16 - 🦷 Dental Implants,uploaded?: no
+IMAGE,implant-healthy-vs-inflamed.jpg,Comparison: healthy implant tissues vs peri-implant inflammation,"Side-by-side clinical photographs, labelled healthy and inflamed",module 16 - 🦷 Dental Implants,uploaded?: no
+IMAGE,diabetes-gum-health-infographic.png,Infographic: diabetes and gum health,"Shows the two-way link between blood sugar and gum disease, with warning signs",module 17 - 🩸 Diabetes,uploaded?: no
+IMAGE,periodontal-healthy-vs-diseased.jpg,Comparison: healthy gums vs gingivitis vs periodontitis,Labelled clinical photographs side by side,module 18 - 🧼 Gum Disease (Periodontal Disease),uploaded?: no
+GIF,periodontal-gumline-interdental.gif,Cleaning along the gum line and between the teeth,,module 18 - 🧼 Gum Disease (Periodontal Disease),uploaded?: no
+IMAGE,mse-8-steps-illustrated.jpg,Step-by-step illustrated mouth examination (8 steps),One labelled illustration or photograph for each of the eight Mouth Self-Examination (MSE) steps,module 19 - 🔍 Oral Cancer Awareness,uploaded?: no
+VIDEO,mse-demonstration.mp4,Mouth Self-Examination (MSE) demonstration,Shows all eight steps using a mirror and good light,module 19 - 🔍 Oral Cancer Awareness,uploaded?: no
+IMAGE,oral-cancer-normal-vs-suspicious.jpg,"Comparison: normal oral tissues and suspicious changes (persistent ulcer, white patch, red patch, lump)","Clinical photographs from a reliable, licensed source, each labelled, with a note that only a dentist can diagnose",module 19 - 🔍 Oral Cancer Awareness,uploaded?: no
+IMAGE,caries-healthy-vs-decay.jpg,Comparison: healthy tooth vs early decay vs cavity,"Labelled clinical photographs showing a healthy tooth, a white-spot lesion and a cavity",module 20 - 🦷 Dental Caries,uploaded?: no
+IMAGE,gum-plaque-calculus-gingivitis.jpg,"Comparison: plaque vs calculus, and healthy gums vs gingivitis",Labelled clinical photographs side by side,module 21 - 🧼 Gum Disease,uploaded?: no
+IMAGE,diet-snack-choices-infographic.png,Infographic: healthy snack and drink choices,"Shows water, fruit, plain milk and unsweetened snacks compared with sugary drinks, sweets and sticky foods",module 22 - 🥗 Diet and Oral Health,uploaded?: no
+IMAGE,tobacco-vaping-mouth-infographic.png,"Infographic: effects of tobacco, vaping and betel quid on the mouth","Shows effects on gums, teeth, breath and oral cancer risk, and where to get help to quit",module 23 - 🚭 Tobacco and Vaping,uploaded?: no
+IMAGE,diabetes-oral-health-infographic.png,Infographic: diabetes and oral health,"Shows the two-way link between blood sugar and gum disease, with warning signs",module 24 - 🩸 Diabetes and Oral Health,uploaded?: no
+VIDEO,brushing-techniques-demo.mp4,Brushing technique demonstration (Modified Bass and Fones),"Shows brush positioning and movements on the outer, inner and chewing surfaces",module 25 - 🎬 Brushing Techniques,uploaded?: no
+IMAGE,floss-types.jpg,Photo: types of dental floss,"Shows waxed floss, unwaxed floss, dental tape, super floss, floss picks, a floss holder and a floss threader, each labelled",module 26 - 🧵 Dental Floss: Types and Choice,uploaded?: no
+IMAGE,interdental-brush-sizes.jpg,Photo: interdental brushes in different sizes,"Shows a range of interdental brush sizes labelled by size, plus a water flosser and a single-tufted toothbrush",module 27 - 🪷 Interdental Cleaning,uploaded?: no
+GIF,interdental-brush-insertion.gif,Interdental brush insertion,,module 27 - 🪷 Interdental Cleaning,uploaded?: no
+IMAGE,mouthwash-types.jpg,"Photo: types of mouthwash (fluoride, antiseptic, alcohol-free)","Shows different mouthwash bottles with labels visible, without brand promotion, and a measuring cup",module 28 - 🧴 Mouthwash,uploaded?: no
+IMAGE,other-hygiene-aids.jpg,"Photo: tongue scraper, denture brush, orthodontic toothbrush and single-tufted toothbrush",Shows each aid separately and labelled,module 29 - 👅 Tongue Cleaning and Other Aids,uploaded?: no
+GIF,tongue-cleaning.gif,Tongue cleaning technique,,module 29 - 👅 Tongue Cleaning and Other Aids,uploaded?: no
+VIDEO,daily-routine.mp4,Daily oral hygiene routine,Shows the morning and night-time routine in the correct order,module 30 - 🕓 Daily Oral Hygiene Routine,uploaded?: no
+IMAGE,oku-modified-toothbrushes.jpg,"Photo set: modified toothbrushes (enlarged handle, foam grip, angled handle, hand strap, powered brush)","Shows each adaptation on its own on a plain background, with a short label",module 31 - ♿ Adaptive Toothbrushes and Aids (Special Needs/OKU),uploaded?: no
+VIDEO,oku-adaptive-brushing.mp4,Brushing with adaptive aids,"Shows a caregiver and a person using adapted handles, a hand strap and a floss holder",module 31 - ♿ Adaptive Toothbrushes and Aids (Special Needs/OKU),uploaded?: no
+IMAGE,tooth-anatomy-3d.png,3D medical illustration: tooth anatomy and supporting tissues,"Shows enamel, dentine, pulp, root, gum, periodontal ligament and bone in a labelled cross-section",module 32 - 🦷 Oral Anatomy and Tooth Structure,uploaded?: no
+IMAGE,opmd-examples.jpg,"Comparison: leukoplakia, erythroplakia and oral submucous fibrosis","Clinical photographs from a reliable licensed source, each labelled, with a note that only a dentist can diagnose",module 33 - 🔬 Oral Potentially Malignant Disorders (OPMD),uploaded?: no
+IMAGE,fluoride-awareness-infographic.png,Infographic: where fluoride comes from and how to use it safely,"Shows toothpaste, mouthwash, varnish and safe use around young children",module 34 - 🧪 Fluoride Awareness,uploaded?: no
+IMAGE,alcohol-oral-health-infographic.png,Infographic: alcohol and the mouth,"Shows the effect on oral cancer risk, dry mouth, enamel and tooth decay",module 35 - 🍷 Alcohol and Oral Health,uploaded?: no
+IMAGE,tooth-erosion.jpg,Illustration or photo: tooth erosion compared with healthy enamel,"Labelled images showing worn, shiny enamel and an acidic drink as a cause",module 36 - 🍋 Tooth Erosion,uploaded?: no
+IMAGE,halitosis-causes.png,Illustration: common causes of bad breath,"Shows the tongue coating, gums, teeth and dentures as sources of bad breath",module 37 - 💨 Halitosis (Bad Breath),uploaded?: no
+GIF,tooth-eruption.gif,Tooth eruption timeline,,module 38 - 🌱 Tooth Eruption and Development,uploaded?: no
+IMAGE,knocked-out-tooth-steps.png,Infographic: what to do if a tooth is knocked out,"Step-by-step: hold by the crown, rinse gently, replace or keep in milk, see a dentist urgently",module 39 - 🚑 Dental Trauma and Emergencies,uploaded?: no
+IMAGE,infants-cleaning-gums.jpg,Photo: cleaning an infant’s gums and teeth,Shows a parent gently cleaning a baby’s gums and first teeth with a toothbrush or clean cloth,age 0 - Infants and Toddlers (0–3 years),uploaded?: no
+VIDEO,infants-toddler-brushing.mp4,Parent brushing a toddler’s teeth,Shows a parent positioning and brushing a toddler’s teeth gently,age 0 - Infants and Toddlers (0–3 years),uploaded?: no
+GIF,preschool-circular-brushing.gif,Gentle circular brushing movements,,age 1 - Preschool Children (4–6 years),uploaded?: no
+VIDEO,preschool-parent-child-brushing.mp4,Parent and child brushing together,Shows a parent supervising and helping a child to brush,age 1 - Preschool Children (4–6 years),uploaded?: no
+GIF,school-all-surfaces-brushing.gif,"Brushing all surfaces of the teeth, including the back molars",,age 2 - School-Aged Children (7–12 years),uploaded?: no
+VIDEO,school-brushing-demo.mp4,Correct brushing demonstration for children,Shows a child brushing every surface while a parent checks,age 2 - School-Aged Children (7–12 years),uploaded?: no
+GIF,teen-gumline-cleaning.gif,Cleaning along the gumline,,age 3 - Teenagers (13–19 years),uploaded?: no
+VIDEO,teen-braces-brushing.mp4,Brushing around orthodontic brackets and wires,"Shows brushing above, below and around brackets and wires, and interdental brush use",age 3 - Teenagers (13–19 years),uploaded?: no
+GIF,adult-modified-bass.gif,Toothbrush positioning and gentle Modified Bass movements,,age 4 - Adults (20–59 years),uploaded?: no
+VIDEO,adult-complete-brushing.mp4,Complete toothbrushing demonstration,Shows the full routine including interdental and tongue cleaning,age 4 - Adults (20–59 years),uploaded?: no
+IMAGE,older-adaptive-toothbrushes.jpg,Photo: different toothbrush handles and adaptive toothbrushes,"Shows thick, adapted and powered toothbrush handles side by side, labelled",age 5 - Elderly (60 years and above),uploaded?: no
+VIDEO,older-reduced-dexterity-brushing.mp4,Brushing with reduced hand dexterity,"Shows adapted handles, elbow support and caregiver-assisted brushing",age 5 - Elderly (60 years and above),uploaded?: no
