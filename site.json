@@ -1,0 +1,196 @@
+{
+ "site_name": "DentiGuide",
+ "goatcounter_code": "",
+ "ui": {
+  "en": {
+   "home": "Home",
+   "quiz": "Quiz",
+   "tagline": "Your Guide to a Healthier Smile.",
+   "disclaimer": "For general education only. It does not replace advice from your dentist.",
+   "back": "← Back",
+   "oe": "Oral Health Education (OHE)",
+   "oi": "Oral Hygiene Instruction (OHI)",
+   "dt": "Dental Treatment Guidance",
+   "hero_text": "A dental education and guidance platform with clear, reliable information for patients and the public.",
+   "oe_card": "Knowledge, awareness and prevention: oral cancer, dental caries, gum disease, diet, tobacco and more.",
+   "oi_card": "Practical oral hygiene: basics, brushing and cleaning by age group, and special oral care.",
+   "dt_card": "Guidance on dental treatments such as prosthodontics, endodontics, orthodontics and periodontics.",
+   "oe_intro": "Learn about oral health, how diseases develop, risk factors and healthy behaviours.",
+   "oi_intro": "Practical, step-by-step guidance for daily oral care.",
+   "basics": "Oral Hygiene Basics",
+   "by_age": "By Age Group",
+   "special": "Special Oral Care",
+   "ages": [
+    "Infants and Toddlers (0–3 years)",
+    "Children (4–12 years)",
+    "Teenagers (13–19 years)",
+    "Adults (20–59 years)",
+    "Elderly (60 years and above)"
+   ],
+   "child_tabs": [
+    "Preschool (4–6 years)",
+    "School-aged (7–12 years)"
+   ],
+   "soon": "Coming soon",
+   "treat_intro": "This section is being prepared. The topics below will be added in future updates.",
+   "treat_more": "Other dental treatment topics can be added here in the future.",
+   "advice": "If you have any further questions or concerns about your oral health, please consult your dentist or visit the nearest dental clinic for professional advice.",
+   "categories": {
+    "understanding": "Understanding Your Mouth",
+    "diseases": "Dental Diseases and Conditions",
+    "cancer": "Cancer, Risk Habits and Awareness",
+    "prevention": "Prevention and Healthy Habits",
+    "general": "General Health and Emergencies"
+   },
+   "missing_translation": "This page has not been translated yet. The English version is shown.",
+   "quiz_ui": {
+    "question": "Question",
+    "next": "Next",
+    "finish": "See result",
+    "correct": "Correct!",
+    "wrong": "Not quite.",
+    "answer_is": "Correct answer:",
+    "score": "Your score",
+    "done": "Well done! Every small step contributes to a healthier smile.",
+    "again": "Try again",
+    "quizzes": "Quiz"
+   },
+   "treatment": [
+    "Prosthodontics (Prostho)",
+    "Endodontics (Endo)",
+    "Orthodontics (Ortho)",
+    "Periodontics (Perio)",
+    "More treatment topics"
+   ],
+   "lang_name": "English",
+   "more": "More oral health topics will be added in future updates."
+  },
+  "ms": {
+   "home": "Utama",
+   "quiz": "Kuiz",
+   "tagline": "Panduan Anda ke Arah Senyuman yang Lebih Sihat.",
+   "disclaimer": "Untuk pendidikan umum sahaja. Ia tidak menggantikan nasihat doktor gigi anda.",
+   "back": "← Kembali",
+   "oe": "Pendidikan Kesihatan Mulut (OHE)",
+   "oi": "Arahan Kebersihan Mulut (OHI)",
+   "dt": "Panduan Rawatan Pergigian",
+   "hero_text": "Platform pendidikan dan panduan pergigian dengan maklumat yang jelas dan boleh dipercayai untuk pesakit dan orang awam.",
+   "oe_card": "Pengetahuan, kesedaran dan pencegahan: kanser mulut, karies gigi, penyakit gusi, diet, tembakau dan banyak lagi.",
+   "oi_card": "Kebersihan mulut secara praktikal: asas, cara memberus dan membersihkan mengikut kumpulan umur, serta penjagaan mulut khas.",
+   "dt_card": "Panduan mengenai rawatan pergigian seperti prostodontik, endodontik, ortodontik dan periodontik.",
+   "oe_intro": "Ketahui tentang kesihatan mulut, cara penyakit berlaku, faktor risiko dan tabiat yang sihat.",
+   "oi_intro": "Panduan praktikal langkah demi langkah untuk penjagaan mulut harian.",
+   "basics": "Asas Kebersihan Mulut",
+   "by_age": "Mengikut Kumpulan Umur",
+   "special": "Penjagaan Mulut Khas",
+   "ages": [
+    "Bayi dan Kanak-kanak Kecil (0–3 tahun)",
+    "Kanak-kanak (4–12 tahun)",
+    "Remaja (13–19 tahun)",
+    "Dewasa (20–59 tahun)",
+    "Warga Emas (60 tahun dan ke atas)"
+   ],
+   "child_tabs": [
+    "Prasekolah (4–6 tahun)",
+    "Usia persekolahan (7–12 tahun)"
+   ],
+   "soon": "Akan datang",
+   "treat_intro": "Bahagian ini sedang disediakan. Topik di bawah akan ditambah dalam kemas kini akan datang.",
+   "treat_more": "Topik rawatan pergigian yang lain boleh ditambah di sini pada masa hadapan.",
+   "advice": "Jika anda mempunyai sebarang pertanyaan atau kebimbangan lanjut mengenai kesihatan mulut, sila dapatkan nasihat doktor pergigian atau kunjungi klinik pergigian yang berdekatan.",
+   "categories": {
+    "understanding": "Memahami Mulut Anda",
+    "diseases": "Penyakit dan Keadaan Pergigian",
+    "cancer": "Kanser, Tabiat Berisiko dan Kesedaran",
+    "prevention": "Pencegahan dan Tabiat Sihat",
+    "general": "Kesihatan Am dan Kecemasan"
+   },
+   "missing_translation": "Halaman ini belum diterjemahkan. Versi Bahasa Inggeris dipaparkan.",
+   "quiz_ui": {
+    "question": "Soalan",
+    "next": "Seterusnya",
+    "finish": "Lihat keputusan",
+    "correct": "Betul!",
+    "wrong": "Belum tepat.",
+    "answer_is": "Jawapan betul:",
+    "score": "Skor anda",
+    "done": "Syabas! Setiap langkah kecil menyumbang kepada senyuman yang lebih sihat.",
+    "again": "Cuba lagi",
+    "quizzes": "Kuiz"
+   },
+   "treatment": [
+    "Prostodontik (Prostho)",
+    "Endodontik (Endo)",
+    "Ortodontik (Ortho)",
+    "Periodontik (Perio)",
+    "Topik rawatan lain"
+   ],
+   "lang_name": "Bahasa Melayu",
+   "more": "Lebih banyak topik kesihatan mulut akan ditambah dalam kemas kini akan datang."
+  },
+  "zh": {
+   "home": "首页",
+   "quiz": "小测验",
+   "tagline": "通往健康笑容的指南。",
+   "disclaimer": "仅供一般健康教育，不能取代牙医的建议。",
+   "back": "← 返回",
+   "oe": "口腔健康教育（OHE）",
+   "oi": "口腔卫生指导（OHI）",
+   "dt": "牙科治疗指南",
+   "hero_text": "牙科教育与指导平台，为患者和公众提供清晰、可靠的信息。",
+   "oe_card": "知识、认知与预防：口腔癌、龋齿、牙龈疾病、饮食、烟草等。",
+   "oi_card": "实用的口腔卫生：基础知识、按年龄组的刷牙与清洁方法，以及特殊口腔护理。",
+   "dt_card": "提供口腔修复、牙髓、正畸和牙周等牙科治疗的指南。",
+   "oe_intro": "了解口腔健康、疾病如何发生、风险因素和健康行为。",
+   "oi_intro": "日常口腔护理的实用分步指导。",
+   "basics": "口腔卫生基础",
+   "by_age": "按年龄组",
+   "special": "特殊口腔护理",
+   "ages": [
+    "婴幼儿（0–3岁）",
+    "儿童（4–12岁）",
+    "青少年（13–19岁）",
+    "成人（20–59岁）",
+    "老年人（60岁及以上）"
+   ],
+   "child_tabs": [
+    "学龄前（4–6岁）",
+    "学龄期（7–12岁）"
+   ],
+   "soon": "即将推出",
+   "treat_intro": "本栏目正在筹备中，以下主题将在日后更新中加入。",
+   "treat_more": "其他牙科治疗主题日后可在此加入。",
+   "advice": "如果您对口腔健康有任何疑问或担忧，请咨询牙医或前往附近的牙科诊所寻求专业建议。",
+   "categories": {
+    "understanding": "认识您的口腔",
+    "diseases": "牙科疾病与问题",
+    "cancer": "癌症、危险习惯与认知",
+    "prevention": "预防与健康习惯",
+    "general": "全身健康与急症"
+   },
+   "missing_translation": "本页尚未翻译，现显示英文版本。",
+   "quiz_ui": {
+    "question": "问题",
+    "next": "下一题",
+    "finish": "查看结果",
+    "correct": "正确！",
+    "wrong": "不太对。",
+    "answer_is": "正确答案：",
+    "score": "您的得分",
+    "done": "做得好！每一小步都有助于拥有更健康的笑容。",
+    "again": "再试一次",
+    "quizzes": "小测验"
+   },
+   "treatment": [
+    "口腔修复（Prostho）",
+    "牙髓治疗（Endo）",
+    "口腔正畸（Ortho）",
+    "牙周治疗（Perio）",
+    "更多治疗主题"
+   ],
+   "lang_name": "中文",
+   "more": "更多口腔健康主题将在日后更新中加入。"
+  }
+ },
+ "show_media_placeholders": true
+}

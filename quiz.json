@@ -1,0 +1,164 @@
+{
+ "quizzes": [
+  {
+   "id": "basic-oral-health",
+   "title": {
+    "en": "Basic Oral Health Quiz",
+    "ms": "Kuiz Asas Kesihatan Mulut",
+    "zh": "口腔健康基础小测验"
+   },
+   "questions": [
+    {
+     "question": {
+      "en": "How often should you brush your teeth?",
+      "ms": "Berapa kerap anda perlu memberus gigi?",
+      "zh": "您应该多久刷一次牙？"
+     },
+     "options": {
+      "en": [
+       "Once a week",
+       "Twice a day",
+       "Only when they hurt"
+      ],
+      "ms": [
+       "Seminggu sekali",
+       "Dua kali sehari",
+       "Hanya apabila sakit"
+      ],
+      "zh": [
+       "每周一次",
+       "每天两次",
+       "只在牙痛时"
+      ]
+     },
+     "correct": 1,
+     "explanation": {
+      "en": "Brushing twice a day removes plaque and helps protect teeth and gums.",
+      "ms": "Memberus dua kali sehari membuang plak dan melindungi gigi serta gusi.",
+      "zh": "每天刷牙两次可清除牙菌斑，保护牙齿和牙龈。"
+     }
+    },
+    {
+     "question": {
+      "en": "Why is fluoride toothpaste important?",
+      "ms": "Mengapa ubat gigi berfluorida penting?",
+      "zh": "为什么含氟牙膏很重要？"
+     },
+     "options": {
+      "en": [
+       "It whitens teeth instantly",
+       "It replaces flossing",
+       "It helps prevent tooth decay"
+      ],
+      "ms": [
+       "Memutihkan gigi serta-merta",
+       "Menggantikan flos",
+       "Membantu mencegah karies gigi"
+      ],
+      "zh": [
+       "能立即美白牙齿",
+       "能代替牙线",
+       "有助于预防蛀牙"
+      ]
+     },
+     "correct": 2,
+     "explanation": {
+      "en": "Fluoride strengthens tooth enamel and helps prevent decay.",
+      "ms": "Fluorida menguatkan enamel gigi dan membantu mencegah karies.",
+      "zh": "氟能强化牙釉质，有助于预防蛀牙。"
+     }
+    },
+    {
+     "question": {
+      "en": "Which toothbrush bristles are recommended?",
+      "ms": "Bulu berus gigi manakah yang disyorkan?",
+      "zh": "推荐使用哪种刷毛的牙刷？"
+     },
+     "options": {
+      "en": [
+       "Soft",
+       "Hard",
+       "It does not matter"
+      ],
+      "ms": [
+       "Lembut",
+       "Keras",
+       "Tidak mengapa"
+      ],
+      "zh": [
+       "软毛",
+       "硬毛",
+       "都可以"
+      ]
+     },
+     "correct": 0,
+     "explanation": {
+      "en": "Soft bristles clean well and are gentler on gums.",
+      "ms": "Bulu lembut membersihkan dengan baik dan lebih lembut pada gusi.",
+      "zh": "软毛清洁效果好，对牙龈更温和。"
+     }
+    },
+    {
+     "question": {
+      "en": "How often should you clean between your teeth?",
+      "ms": "Berapa kerap anda perlu membersihkan celah gigi?",
+      "zh": "多久应清洁一次牙缝？"
+     },
+     "options": {
+      "en": [
+       "Once a day",
+       "Never needed",
+       "Only when it hurts"
+      ],
+      "ms": [
+       "Sekali sehari",
+       "Tidak perlu",
+       "Hanya apabila sakit"
+      ],
+      "zh": [
+       "每天一次",
+       "不需要",
+       "只在疼痛时"
+      ]
+     },
+     "correct": 0,
+     "explanation": {
+      "en": "Cleaning between teeth once a day reaches areas a toothbrush cannot.",
+      "ms": "Membersihkan celah gigi sekali sehari mencapai kawasan yang tidak dapat dicapai berus gigi.",
+      "zh": "每天清洁牙缝，可清除牙刷够不到的地方。"
+     }
+    },
+    {
+     "question": {
+      "en": "What helps prevent tooth decay?",
+      "ms": "Apakah yang membantu mencegah karies gigi?",
+      "zh": "什么有助于预防蛀牙？"
+     },
+     "options": {
+      "en": [
+       "Rinsing with water only",
+       "Skipping dental visits",
+       "Fluoride toothpaste twice a day and fewer sugary snacks"
+      ],
+      "ms": [
+       "Berkumur dengan air sahaja",
+       "Tidak ke klinik pergigian",
+       "Ubat gigi berfluorida dua kali sehari dan kurangkan makanan bergula"
+      ],
+      "zh": [
+       "只用清水漱口",
+       "不看牙医",
+       "每天两次含氟牙膏并减少甜食零食"
+      ]
+     },
+     "correct": 2,
+     "explanation": {
+      "en": "Fluoride and less frequent sugar together help prevent decay.",
+      "ms": "Fluorida dan pengambilan gula yang kurang kerap bersama-sama membantu mencegah karies.",
+      "zh": "氟和减少吃糖的次数，共同有助于预防蛀牙。"
+     }
+    }
+   ]
+  }
+ ]
+}
